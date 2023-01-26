@@ -7,12 +7,33 @@ custom-foot: js/modal-hash-js.html
 <div class="row">
     <div class="col-md-10 col-12 mx-auto">
         <div class="mb-4 text-center">
+            <div id="carouselExampleCaptions" class="carousel slide bg-dark" data-bs-ride="false" style="">
+                <div class="carousel-indicators">
+                    {% for child in children %}
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="{{forloop.index0}}" class="active" aria-current="true" aria-label="{{child.title}}"></button>
+                    {% endfor %}
+                </div>
+                <div class="carousel-inner" style="max-height: 500px;">
+                    {% for child in children %}
+                  <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                    <img src="{{child.image_small}}" class="d-block d-block h-100 mx-auto ls-is-cached lazyloaded" alt="Image of {{child.title}}">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>{{child.title}}</h5>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
 
-            {% for child in children %}
 
-            {% include item/compound-image-gallery.html %}
-
-            {% endfor %}
 
             <div class="my-2">
 

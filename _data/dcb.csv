@@ -1,0 +1,1056 @@
+objectid,parentid,title,description,type,format,display_template,object_location,image_small,image_thumb
+dcb1,,"Indiana beer bottle, Joe Stein, Plymouth IN",no description,record,image/jpg,multiple,,/objects/small/1_1_sm.jpg,/objects/thumbs/1_1_th.jpg
+,dcb1,,,,,,/objects/1_1.JPG,/objects/small/1_1_sm.jpg,/objects/thumbs/1_1_th.jpg
+,dcb1,,,,,,/objects/1_2.JPG,/objects/small/1_2_sm.jpg,/objects/thumbs/1_2_th.jpg
+dcb2,,"Indiana beer bottle Crescent Brewing Company,",Aurora IN,record,image/jpg,multiple,,/objects/small/2_1_sm.jpg,/objects/thumbs/2_1_th.jpg
+,dcb2,,,,,,/objects/2_1.JPG,/objects/small/2_1_sm.jpg,/objects/thumbs/2_1_th.jpg
+,dcb2,,,,,,/objects/2_2.JPG,/objects/small/2_2_sm.jpg,/objects/thumbs/2_2_th.jpg
+dcb3,,Indiana ale bottle P. Frick & Co Evansville IN,no description,record,image/jpg,multiple,,/objects/small/3_1_sm.jpg,/objects/thumbs/3_1_th.jpg
+,dcb3,,,,,,/objects/3_1.JPG,/objects/small/3_1_sm.jpg,/objects/thumbs/3_1_th.jpg
+,dcb3,,,,,,/objects/3_2.JPG,/objects/small/3_2_sm.jpg,/objects/thumbs/3_2_th.jpg
+dcb4,,Indiana beer bottle E. Abbott Hartford City IN,no description,record,image/jpg,multiple,,/objects/small/4_1_sm.jpg,/objects/thumbs/4_1_th.jpg
+,dcb4,,,,,,/objects/4_1.JPG,/objects/small/4_1_sm.jpg,/objects/thumbs/4_1_th.jpg
+,dcb4,,,,,,/objects/4_2.JPG,/objects/small/4_2_sm.jpg,/objects/thumbs/4_2_th.jpg
+dcb5,,"Indiana soda bottle, Charles Bauer LaPorte IN,","blue, small chip to rim",record,image/jpg,multiple,,/objects/small/5_1_sm.jpg,/objects/thumbs/5_1_th.jpg
+,dcb5,,,,,,/objects/5_1.JPG,/objects/small/5_1_sm.jpg,/objects/thumbs/5_1_th.jpg
+,dcb5,,,,,,/objects/5_2.JPG,/objects/small/5_2_sm.jpg,/objects/thumbs/5_2_th.jpg
+dcb6,,"Indiana soda bottle J. Cosgrove, Charleston, blue",no description,record,image/jpg,multiple,,/objects/small/6_1_sm.jpg,/objects/thumbs/6_1_th.jpg
+,dcb6,,,,,,/objects/6_1.JPG,/objects/small/6_1_sm.jpg,/objects/thumbs/6_1_th.jpg
+,dcb6,,,,,,/objects/6_2.JPG,/objects/small/6_2_sm.jpg,/objects/thumbs/6_2_th.jpg
+dcb7,,"Indiana soda bottle J.L. Aurent & Son, Ft Wayne IN",no description,record,image/jpg,multiple,,/objects/small/7_1_sm.jpg,/objects/thumbs/7_1_th.jpg
+,dcb7,,,,,,/objects/7_1.JPG,/objects/small/7_1_sm.jpg,/objects/thumbs/7_1_th.jpg
+,dcb7,,,,,,/objects/7_2.JPG,/objects/small/7_2_sm.jpg,/objects/thumbs/7_2_th.jpg
+dcb8,,"Indiana soda bottle J.L. Aurent & Son, Ft Wayne IN",no description,record,image/jpg,multiple,,/objects/small/8_1_sm.jpg,/objects/thumbs/8_1_th.jpg
+,dcb8,,,,,,/objects/8_1.JPG,/objects/small/8_1_sm.jpg,/objects/thumbs/8_1_th.jpg
+,dcb8,,,,,,/objects/8_2.JPG,/objects/small/8_2_sm.jpg,/objects/thumbs/8_2_th.jpg
+dcb9,,"Indiana soda bottle J.L. Aurent & Son, Ft Wayne IN",no description,record,image/jpg,multiple,,/objects/small/9_1_sm.jpg,/objects/thumbs/9_1_th.jpg
+,dcb9,,,,,,/objects/9_1.JPG,/objects/small/9_1_sm.jpg,/objects/thumbs/9_1_th.jpg
+,dcb9,,,,,,/objects/9_2.JPG,/objects/small/9_2_sm.jpg,/objects/thumbs/9_2_th.jpg
+dcb10,,Indiana soda bottle Chas. H Mayer & Co. Hammond,"IN, cobalt blue",record,image/jpg,multiple,,/objects/small/10_1_sm.jpg,/objects/thumbs/10_1_th.jpg
+,dcb10,,,,,,/objects/10_1.JPG,/objects/small/10_1_sm.jpg,/objects/thumbs/10_1_th.jpg
+,dcb10,,,,,,/objects/10_2.JPG,/objects/small/10_2_sm.jpg,/objects/thumbs/10_2_th.jpg
+dcb11,,Indiana soda bottle Chas. H Mayer & Co. Hammond,"IN, aqua",record,image/jpg,multiple,,/objects/small/11_1_sm.jpg,/objects/thumbs/11_1_th.jpg
+,dcb11,,,,,,/objects/11_1.JPG,/objects/small/11_1_sm.jpg,/objects/thumbs/11_1_th.jpg
+,dcb11,,,,,,/objects/11_2.JPG,/objects/small/11_2_sm.jpg,/objects/thumbs/11_2_th.jpg
+dcb12,,"Indiana beer bottle Berghoff Bros. Ft Wayne IN,","rare variant, chip to base rim",record,image/jpg,multiple,,/objects/small/12_1_sm.jpg,/objects/thumbs/12_1_th.jpg
+,dcb12,,,,,,/objects/12_1.JPG,/objects/small/12_1_sm.jpg,/objects/thumbs/12_1_th.jpg
+,dcb12,,,,,,/objects/12_2.JPG,/objects/small/12_2_sm.jpg,/objects/thumbs/12_2_th.jpg
+dcb13,,"Indiana beer bottle Berghoff Bros. Ft Wayne IN,","rare variant, minor nick to top rim",record,image/jpg,multiple,,/objects/small/13_1_sm.jpg,/objects/thumbs/13_1_th.jpg
+,dcb13,,,,,,/objects/13_1.JPG,/objects/small/13_1_sm.jpg,/objects/thumbs/13_1_th.jpg
+,dcb13,,,,,,/objects/13_2.JPG,/objects/small/13_2_sm.jpg,/objects/thumbs/13_2_th.jpg
+dcb14,,"Indiana beer bottle, extremely rare, C.L.","Centlivre Fort Wayne IN, cobalt blue, missing  top",record,image/jpg,multiple,,/objects/small/14_1_sm.jpg,/objects/thumbs/14_1_th.jpg
+,dcb14,,,,,,/objects/14_1.JPG,/objects/small/14_1_sm.jpg,/objects/thumbs/14_1_th.jpg
+,dcb14,,,,,,/objects/14_2.JPG,/objects/small/14_2_sm.jpg,/objects/thumbs/14_2_th.jpg
+dcb15,,"Indiana soda bottle rare cobalt blue, City","Bottling Works Fort Wayne IN, chip to top",record,image/jpg,multiple,,/objects/small/15_1_sm.jpg,/objects/thumbs/15_1_th.jpg
+,dcb15,,,,,,/objects/15_1.JPG,/objects/small/15_1_sm.jpg,/objects/thumbs/15_1_th.jpg
+,dcb15,,,,,,/objects/15_2.JPG,/objects/small/15_2_sm.jpg,/objects/thumbs/15_2_th.jpg
+dcb16,,Indiana ale bottle F.P. Hill Seymour IN,no description,record,image/jpg,multiple,,/objects/small/16_1_sm.jpg,/objects/thumbs/16_1_th.jpg
+,dcb16,,,,,,/objects/16_1.JPG,/objects/small/16_1_sm.jpg,/objects/thumbs/16_1_th.jpg
+,dcb16,,,,,,/objects/16_2.JPG,/objects/small/16_2_sm.jpg,/objects/thumbs/16_2_th.jpg
+dcb17,,"Indiana ale bottle Frank Wrights Ale, Indianapolis",no description,record,image/jpg,multiple,,/objects/small/17_1_sm.jpg,/objects/thumbs/17_1_th.jpg
+,dcb17,,,,,,/objects/17_1.JPG,/objects/small/17_1_sm.jpg,/objects/thumbs/17_1_th.jpg
+,dcb17,,,,,,/objects/17_2.JPG,/objects/small/17_2_sm.jpg,/objects/thumbs/17_2_th.jpg
+dcb18,,"Indiana beer bottle Crescent Brewing Company,","Aurora, IN, base rim chip",record,image/jpg,multiple,,/objects/small/18_1_sm.jpg,/objects/thumbs/18_1_th.jpg
+,dcb18,,,,,,/objects/18_1.JPG,/objects/small/18_1_sm.jpg,/objects/thumbs/18_1_th.jpg
+,dcb18,,,,,,/objects/18_2.JPG,/objects/small/18_2_sm.jpg,/objects/thumbs/18_2_th.jpg
+dcb19,,Indiana beer bottle rare aqua A.A. Hey & Co,"Bottlers, Fort Wayne IN",record,image/jpg,multiple,,/objects/small/19_1_sm.jpg,/objects/thumbs/19_1_th.jpg
+,dcb19,,,,,,/objects/19_1.JPG,/objects/small/19_1_sm.jpg,/objects/thumbs/19_1_th.jpg
+,dcb19,,,,,,/objects/19_2.JPG,/objects/small/19_2_sm.jpg,/objects/thumbs/19_2_th.jpg
+dcb20,,"Indiana beer bottle rare aqua, The Herman Berghoff",Brewing Co Fort Wayne IN,record,image/jpg,multiple,,/objects/small/20_1_sm.jpg,/objects/thumbs/20_1_th.jpg
+,dcb20,,,,,,/objects/20_1.JPG,/objects/small/20_1_sm.jpg,/objects/thumbs/20_1_th.jpg
+,dcb20,,,,,,/objects/20_2.JPG,/objects/small/20_2_sm.jpg,/objects/thumbs/20_2_th.jpg
+dcb21,,"Indiana beer bottle City Steam Bottling Works,",Fort Wayne IN,record,image/jpg,multiple,,/objects/small/21_1_sm.jpg,/objects/thumbs/21_1_th.jpg
+,dcb21,,,,,,/objects/21_1.JPG,/objects/small/21_1_sm.jpg,/objects/thumbs/21_1_th.jpg
+,dcb21,,,,,,/objects/21_2.JPG,/objects/small/21_2_sm.jpg,/objects/thumbs/21_2_th.jpg
+dcb22,,"Indiana ale bottle Renn & Felock, New Albany IN,",nick to collar,record,image/jpg,multiple,,/objects/small/22_1_sm.jpg,/objects/thumbs/22_1_th.jpg
+,dcb22,,,,,,/objects/22_1.JPG,/objects/small/22_1_sm.jpg,/objects/thumbs/22_1_th.jpg
+,dcb22,,,,,,/objects/22_2.JPG,/objects/small/22_2_sm.jpg,/objects/thumbs/22_2_th.jpg
+dcb23,,"Indiana ale bottle V. Meier Indianapolis IN,",nick to collar,record,image/jpg,multiple,,/objects/small/23_1_sm.jpg,/objects/thumbs/23_1_th.jpg
+,dcb23,,,,,,/objects/23_1.JPG,/objects/small/23_1_sm.jpg,/objects/thumbs/23_1_th.jpg
+,dcb23,,,,,,/objects/23_2.JPG,/objects/small/23_2_sm.jpg,/objects/thumbs/23_2_th.jpg
+dcb24,,"Indiana beer bottle Columbia Brewing Co,",Logansport IN,record,image/jpg,multiple,,/objects/small/24_1_sm.jpg,/objects/thumbs/24_1_th.jpg
+,dcb24,,,,,,/objects/24_1.JPG,/objects/small/24_1_sm.jpg,/objects/thumbs/24_1_th.jpg
+,dcb24,,,,,,/objects/24_2.JPG,/objects/small/24_2_sm.jpg,/objects/thumbs/24_2_th.jpg
+dcb25,,"Indiana beer bottle Columbia Brewing Co,",Logansport IN,record,image/jpg,multiple,,/objects/small/25_1_sm.jpg,/objects/thumbs/25_1_th.jpg
+,dcb25,,,,,,/objects/25_1.JPG,/objects/small/25_1_sm.jpg,/objects/thumbs/25_1_th.jpg
+,dcb25,,,,,,/objects/25_2.JPG,/objects/small/25_2_sm.jpg,/objects/thumbs/25_2_th.jpg
+dcb26,,"Indiana beer bottle John Mutschler, Logansport IN",no description,record,image/jpg,multiple,,/objects/small/26_1_sm.jpg,/objects/thumbs/26_1_th.jpg
+,dcb26,,,,,,/objects/26_1.JPG,/objects/small/26_1_sm.jpg,/objects/thumbs/26_1_th.jpg
+,dcb26,,,,,,/objects/26_2.JPG,/objects/small/26_2_sm.jpg,/objects/thumbs/26_2_th.jpg
+dcb27,,"Indiana beer bottle Crown Brewing Co, Crown Point",IN,record,image/jpg,multiple,,/objects/small/27_1_sm.jpg,/objects/thumbs/27_1_th.jpg
+,dcb27,,,,,,/objects/27_1.JPG,/objects/small/27_1_sm.jpg,/objects/thumbs/27_1_th.jpg
+,dcb27,,,,,,/objects/27_2.JPG,/objects/small/27_2_sm.jpg,/objects/thumbs/27_2_th.jpg
+dcb28,,"Indiana ale bottle E. TH. Holler, Indianapolis,",nick to top,record,image/jpg,multiple,,/objects/small/28_1_sm.jpg,/objects/thumbs/28_1_th.jpg
+,dcb28,,,,,,/objects/28_1.JPG,/objects/small/28_1_sm.jpg,/objects/thumbs/28_1_th.jpg
+,dcb28,,,,,,/objects/28_2.JPG,/objects/small/28_2_sm.jpg,/objects/thumbs/28_2_th.jpg
+dcb29,,"Indiana ale bottle H. Ingermann's XXX Ale,",Cambridge City IN,record,image/jpg,multiple,,/objects/small/29_1_sm.jpg,/objects/thumbs/29_1_th.jpg
+,dcb29,,,,,,/objects/29_1.JPG,/objects/small/29_1_sm.jpg,/objects/thumbs/29_1_th.jpg
+,dcb29,,,,,,/objects/29_2.JPG,/objects/small/29_2_sm.jpg,/objects/thumbs/29_2_th.jpg
+dcb30,,"Indiana beer bottle rare Klopfenstein & Dilling,",Preble IN,record,image/jpg,multiple,,/objects/small/30_1_sm.jpg,/objects/thumbs/30_1_th.jpg
+,dcb30,,,,,,/objects/30_1.JPG,/objects/small/30_1_sm.jpg,/objects/thumbs/30_1_th.jpg
+,dcb30,,,,,,/objects/30_2.JPG,/objects/small/30_2_sm.jpg,/objects/thumbs/30_2_th.jpg
+dcb31,,"Indiana beer bottle rare Klopfenstein & Dilling,",Preble IN,record,image/jpg,multiple,,/objects/small/31_1_sm.jpg,/objects/thumbs/31_1_th.jpg
+,dcb31,,,,,,/objects/31_1.JPG,/objects/small/31_1_sm.jpg,/objects/thumbs/31_1_th.jpg
+,dcb31,,,,,,/objects/31_2.JPG,/objects/small/31_2_sm.jpg,/objects/thumbs/31_2_th.jpg
+dcb32,,"Indiana beer bottle, rare, Benedict & Hunsche,","Fort Wayne IN, only one known to exist",record,image/jpg,multiple,,/objects/small/32_1_sm.jpg,/objects/thumbs/32_1_th.jpg
+,dcb32,,,,,,/objects/32_1.JPG,/objects/small/32_1_sm.jpg,/objects/thumbs/32_1_th.jpg
+,dcb32,,,,,,/objects/32_2.JPG,/objects/small/32_2_sm.jpg,/objects/thumbs/32_2_th.jpg
+dcb33,,Indiana beer bottle D. Carpenter Elkhart IN,no description,record,image/jpg,multiple,,/objects/small/33_1_sm.jpg,/objects/thumbs/33_1_th.jpg
+,dcb33,,,,,,/objects/33_1.JPG,/objects/small/33_1_sm.jpg,/objects/thumbs/33_1_th.jpg
+,dcb33,,,,,,/objects/33_2.JPG,/objects/small/33_2_sm.jpg,/objects/thumbs/33_2_th.jpg
+dcb34,,"Aqua ribbed flask, iron pontil",,Image;StillImage,image/jpg,image,/objects/34.JPG,/objects/small/34_sm.JPG,/objects/thumbs/34_th.JPG
+dcb35,,Aqua Louisville Glass Works flask,,Image;StillImage,image/jpg,image,/objects/35.JPG,/objects/small/35_sm.JPG,/objects/thumbs/35_th.JPG
+dcb36,,"Medicine bottle, Mexican Herb Tonic,","H.E. Kratz & Co, Angola IN",record,image/jpg,multiple,,/objects/small/36_1_sm.jpg,/objects/thumbs/36_1_th.jpg
+,dcb36,,,,,,/objects/36_1.JPG,/objects/small/36_1_sm.jpg,/objects/thumbs/36_1_th.jpg
+,dcb36,,,,,,/objects/36_2.JPG,/objects/small/36_2_sm.jpg,/objects/thumbs/36_2_th.jpg
+dcb37,,"Indiana beer bottle Walter Raupfer Brg Co,",Columbia City IN,record,image/jpg,multiple,,/objects/small/37_1_sm.jpg,/objects/thumbs/37_1_th.jpg
+,dcb37,,,,,,/objects/37_1.JPG,/objects/small/37_1_sm.jpg,/objects/thumbs/37_1_th.jpg
+,dcb37,,,,,,/objects/37_2.JPG,/objects/small/37_2_sm.jpg,/objects/thumbs/37_2_th.jpg
+dcb38,,Indiana beer bottle Columbia City Bottling Works,Columbia City IN,record,image/jpg,multiple,,/objects/small/38_1_sm.jpg,/objects/thumbs/38_1_th.jpg
+,dcb38,,,,,,/objects/38_1.JPG,/objects/small/38_1_sm.jpg,/objects/thumbs/38_1_th.jpg
+,dcb38,,,,,,/objects/38_2.JPG,/objects/small/38_2_sm.jpg,/objects/thumbs/38_2_th.jpg
+dcb39,,Indiana beer bottle Berghoff Brewing Assn,"Fort Wayne IN, paper label, crown top",record,image/jpg,multiple,,/objects/small/39_1_sm.jpg,/objects/thumbs/39_1_th.jpg
+,dcb39,,,,,,/objects/39_1.JPG,/objects/small/39_1_sm.jpg,/objects/thumbs/39_1_th.jpg
+,dcb39,,,,,,/objects/39_2.JPG,/objects/small/39_2_sm.jpg,/objects/thumbs/39_2_th.jpg
+dcb40,,Indiana beer bottle Berghoff Brewing Assn,"Fort Wayne IN, paper label, crown top",record,image/jpg,multiple,,/objects/small/40_1_sm.jpg,/objects/thumbs/40_1_th.jpg
+,dcb40,,,,,,/objects/40_1.JPG,/objects/small/40_1_sm.jpg,/objects/thumbs/40_1_th.jpg
+,dcb40,,,,,,/objects/40_2.JPG,/objects/small/40_2_sm.jpg,/objects/thumbs/40_2_th.jpg
+dcb41,,Indiana beer bottle Berghoff Brewing Assn,"Fort Wayne IN, paper label, crown top",record,image/jpg,multiple,,/objects/small/41_1_sm.jpg,/objects/thumbs/41_1_th.jpg
+,dcb41,,,,,,/objects/41_1.JPG,/objects/small/41_1_sm.jpg,/objects/thumbs/41_1_th.jpg
+,dcb41,,,,,,/objects/41_2.JPG,/objects/small/41_2_sm.jpg,/objects/thumbs/41_2_th.jpg
+dcb42,,Indiana beer bottle Centlivre Brewing Co,"Fort Wayne IN, nickel plate label and cap",record,image/jpg,multiple,,/objects/small/42_1_sm.jpg,/objects/thumbs/42_1_th.jpg
+,dcb42,,,,,,/objects/42_1.JPG,/objects/small/42_1_sm.jpg,/objects/thumbs/42_1_th.jpg
+,dcb42,,,,,,/objects/42_2.JPG,/objects/small/42_2_sm.jpg,/objects/thumbs/42_2_th.jpg
+dcb43,,Indiana beer bottle H. Berghoff Brewing Co,"Fort Wayne IN, pony size, chip to base rim",record,image/jpg,multiple,,/objects/small/43_1_sm.jpg,/objects/thumbs/43_1_th.jpg
+,dcb43,,,,,,/objects/43_1.JPG,/objects/small/43_1_sm.jpg,/objects/thumbs/43_1_th.jpg
+,dcb43,,,,,,/objects/43_2.JPG,/objects/small/43_2_sm.jpg,/objects/thumbs/43_2_th.jpg
+dcb44,,"Indiana beer bottle, rare Christ Schaefer Fort",Wayne,record,image/jpg,multiple,,/objects/small/44_1_sm.jpg,/objects/thumbs/44_1_th.jpg
+,dcb44,,,,,,/objects/44_1.JPG,/objects/small/44_1_sm.jpg,/objects/thumbs/44_1_th.jpg
+,dcb44,,,,,,/objects/44_2.JPG,/objects/small/44_2_sm.jpg,/objects/thumbs/44_2_th.jpg
+dcb45,,"Indiana beer bottle, rare Christ Schaefer Fort",Wayne,record,image/jpg,multiple,,/objects/small/45_1_sm.jpg,/objects/thumbs/45_1_th.jpg
+,dcb45,,,,,,/objects/45_1.JPG,/objects/small/45_1_sm.jpg,/objects/thumbs/45_1_th.jpg
+,dcb45,,,,,,/objects/45_2.JPG,/objects/small/45_2_sm.jpg,/objects/thumbs/45_2_th.jpg
+dcb46,,"Indiana beer bottle rare Fort Wayne Ale House,",John Christen Ft Wayne IN,record,image/jpg,multiple,,/objects/small/46_1_sm.jpg,/objects/thumbs/46_1_th.jpg
+,dcb46,,,,,,/objects/46_1.JPG,/objects/small/46_1_sm.jpg,/objects/thumbs/46_1_th.jpg
+,dcb46,,,,,,/objects/46_2.JPG,/objects/small/46_2_sm.jpg,/objects/thumbs/46_2_th.jpg
+dcb47,,"Indiana beer bottle rare Fort Wayne Ale House,","John Christen Ft Wayne IN, nick to top",record,image/jpg,multiple,,/objects/small/47_1_sm.jpg,/objects/thumbs/47_1_th.jpg
+,dcb47,,,,,,/objects/47_1.JPG,/objects/small/47_1_sm.jpg,/objects/thumbs/47_1_th.jpg
+,dcb47,,,,,,/objects/47_2.JPG,/objects/small/47_2_sm.jpg,/objects/thumbs/47_2_th.jpg
+dcb48,,"Indiana beer bottle A. M. Smith Blue Line,",Elkhart IN,record,image/jpg,multiple,,/objects/small/48_1_sm.jpg,/objects/thumbs/48_1_th.jpg
+,dcb48,,,,,,/objects/48_1.JPG,/objects/small/48_1_sm.jpg,/objects/thumbs/48_1_th.jpg
+,dcb48,,,,,,/objects/48_2.JPG,/objects/small/48_2_sm.jpg,/objects/thumbs/48_2_th.jpg
+dcb49,,"Indiana soda bottle rare crown top Sam Zweig,","Fort Wayne, Tel. 257",record,image/jpg,multiple,,/objects/small/49_1_sm.jpg,/objects/thumbs/49_1_th.jpg
+,dcb49,,,,,,/objects/49_1.JPG,/objects/small/49_1_sm.jpg,/objects/thumbs/49_1_th.jpg
+,dcb49,,,,,,/objects/49_2.JPG,/objects/small/49_2_sm.jpg,/objects/thumbs/49_2_th.jpg
+dcb50,,"Indiana beer bottle C.L. Centlivre Fort Wayne IN,",pony size,record,image/jpg,multiple,,/objects/small/50_1_sm.jpg,/objects/thumbs/50_1_th.jpg
+,dcb50,,,,,,/objects/50_1.JPG,/objects/small/50_1_sm.jpg,/objects/thumbs/50_1_th.jpg
+,dcb50,,,,,,/objects/50_2.JPG,/objects/small/50_2_sm.jpg,/objects/thumbs/50_2_th.jpg
+dcb51,,"Indiana beer bottle rare Auburn Bottling Works,","Frank Ufer, Auburn IN",record,image/jpg,multiple,,/objects/small/51_1_sm.jpg,/objects/thumbs/51_1_th.jpg
+,dcb51,,,,,,/objects/51_1.JPG,/objects/small/51_1_sm.jpg,/objects/thumbs/51_1_th.jpg
+,dcb51,,,,,,/objects/51_2.JPG,/objects/small/51_2_sm.jpg,/objects/thumbs/51_2_th.jpg
+dcb52,,"Indiana beer bottle S. Rogers, Auburn IN",no description,record,image/jpg,multiple,,/objects/small/52_1_sm.jpg,/objects/thumbs/52_1_th.jpg
+,dcb52,,,,,,/objects/52_1.JPG,/objects/small/52_1_sm.jpg,/objects/thumbs/52_1_th.jpg
+,dcb52,,,,,,/objects/52_2.JPG,/objects/small/52_2_sm.jpg,/objects/thumbs/52_2_th.jpg
+dcb53,,"Indiana beer bottle S. Rogers, Auburn IN",no description,record,image/jpg,multiple,,/objects/small/53_1_sm.jpg,/objects/thumbs/53_1_th.jpg
+,dcb53,,,,,,/objects/53_1.JPG,/objects/small/53_1_sm.jpg,/objects/thumbs/53_1_th.jpg
+,dcb53,,,,,,/objects/53_2.JPG,/objects/small/53_2_sm.jpg,/objects/thumbs/53_2_th.jpg
+dcb54,,"Indiana ale bottle C. Wm. Arnold, South Bend IN",no description,record,image/jpg,multiple,,/objects/small/54_1_sm.jpg,/objects/thumbs/54_1_th.jpg
+,dcb54,,,,,,/objects/54_1.JPG,/objects/small/54_1_sm.jpg,/objects/thumbs/54_1_th.jpg
+,dcb54,,,,,,/objects/54_2.JPG,/objects/small/54_2_sm.jpg,/objects/thumbs/54_2_th.jpg
+dcb55,,"Indiana beer bottle Berghoff, Fort Wayne IN amber",blob top with script lettering,record,image/jpg,multiple,,/objects/small/55_1_sm.jpg,/objects/thumbs/55_1_th.jpg
+,dcb55,,,,,,/objects/55_1.JPG,/objects/small/55_1_sm.jpg,/objects/thumbs/55_1_th.jpg
+,dcb55,,,,,,/objects/55_2.JPG,/objects/small/55_2_sm.jpg,/objects/thumbs/55_2_th.jpg
+dcb56,,Indiana beer bottle C.L. Centlivre Brg. Co.,"Fort Wayne, champagne top",record,image/jpg,multiple,,/objects/small/56_1_sm.jpg,/objects/thumbs/56_1_th.jpg
+,dcb56,,,,,,/objects/56_1.JPG,/objects/small/56_1_sm.jpg,/objects/thumbs/56_1_th.jpg
+,dcb56,,,,,,/objects/56_2.JPG,/objects/small/56_2_sm.jpg,/objects/thumbs/56_2_th.jpg
+dcb57,,Indiana beer bottle J.M. Reidmiller Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/57_1_sm.jpg,/objects/thumbs/57_1_th.jpg
+,dcb57,,,,,,/objects/57_1.JPG,/objects/small/57_1_sm.jpg,/objects/thumbs/57_1_th.jpg
+,dcb57,,,,,,/objects/57_2.JPG,/objects/small/57_2_sm.jpg,/objects/thumbs/57_2_th.jpg
+dcb58,,Indiana beer bottle J.M. Reidmiller Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/58_1_sm.jpg,/objects/thumbs/58_1_th.jpg
+,dcb58,,,,,,/objects/58_1.JPG,/objects/small/58_1_sm.jpg,/objects/thumbs/58_1_th.jpg
+,dcb58,,,,,,/objects/58_2.JPG,/objects/small/58_2_sm.jpg,/objects/thumbs/58_2_th.jpg
+dcb59,,Indiana beer bottle J.M. Reidmiller Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/59_1_sm.jpg,/objects/thumbs/59_1_th.jpg
+,dcb59,,,,,,/objects/59_1.JPG,/objects/small/59_1_sm.jpg,/objects/thumbs/59_1_th.jpg
+,dcb59,,,,,,/objects/59_2.JPG,/objects/small/59_2_sm.jpg,/objects/thumbs/59_2_th.jpg
+dcb60,,Indiana beer bottle J.M. Reidmiller Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/60_1_sm.jpg,/objects/thumbs/60_1_th.jpg
+,dcb60,,,,,,/objects/60_1.JPG,/objects/small/60_1_sm.jpg,/objects/thumbs/60_1_th.jpg
+,dcb60,,,,,,/objects/60_2.JPG,/objects/small/60_2_sm.jpg,/objects/thumbs/60_2_th.jpg
+dcb61,,Indiana beer bottle C.L. Centlivre Brewg. Co.,"Fort Wayne pint, champagne top",record,image/jpg,multiple,,/objects/small/61_1_sm.jpg,/objects/thumbs/61_1_th.jpg
+,dcb61,,,,,,/objects/61_1.JPG,/objects/small/61_1_sm.jpg,/objects/thumbs/61_1_th.jpg
+,dcb61,,,,,,/objects/61_2.JPG,/objects/small/61_2_sm.jpg,/objects/thumbs/61_2_th.jpg
+dcb62,,"Indiana bottle, 'Liquid Dead Shot Insect","Destroyer and Disinfectant', Van Ame Chem.  Co. Mfgs. Fort Wayne IN",record,image/jpg,multiple,,/objects/small/62_1_sm.jpg,/objects/thumbs/62_1_th.jpg
+,dcb62,,,,,,/objects/62_1.JPG,/objects/small/62_1_sm.jpg,/objects/thumbs/62_1_th.jpg
+,dcb62,,,,,,/objects/62_2.JPG,/objects/small/62_2_sm.jpg,/objects/thumbs/62_2_th.jpg
+dcb63,,Indiana beer bottle Hilman Preserving Co.,Terre Haute IN,record,image/jpg,multiple,,/objects/small/63_1_sm.jpg,/objects/thumbs/63_1_th.jpg
+,dcb63,,,,,,/objects/63_1.JPG,/objects/small/63_1_sm.jpg,/objects/thumbs/63_1_th.jpg
+,dcb63,,,,,,/objects/63_2.JPG,/objects/small/63_2_sm.jpg,/objects/thumbs/63_2_th.jpg
+dcb64,,"Indiana beer bottle Hack & Simon Eagle Brewery,",Vincennes IN,record,image/jpg,multiple,,/objects/small/64_1_sm.jpg,/objects/thumbs/64_1_th.jpg
+,dcb64,,,,,,/objects/64_1.JPG,/objects/small/64_1_sm.jpg,/objects/thumbs/64_1_th.jpg
+,dcb64,,,,,,/objects/64_2.JPG,/objects/small/64_2_sm.jpg,/objects/thumbs/64_2_th.jpg
+dcb65,,"Indiana beer bottle Wm Kadow, Michigan City IN,",small chip to top,record,image/jpg,multiple,,/objects/small/65_1_sm.jpg,/objects/thumbs/65_1_th.jpg
+,dcb65,,,,,,/objects/65_1.JPG,/objects/small/65_1_sm.jpg,/objects/thumbs/65_1_th.jpg
+,dcb65,,,,,,/objects/65_2.JPG,/objects/small/65_2_sm.jpg,/objects/thumbs/65_2_th.jpg
+dcb66,,"Indiana beer bottle Henry Stein, Plymouth IN",no description,record,image/jpg,multiple,,/objects/small/66_1_sm.jpg,/objects/thumbs/66_1_th.jpg
+,dcb66,,,,,,/objects/66_1.JPG,/objects/small/66_1_sm.jpg,/objects/thumbs/66_1_th.jpg
+,dcb66,,,,,,/objects/66_2.JPG,/objects/small/66_2_sm.jpg,/objects/thumbs/66_2_th.jpg
+dcb67,,"Indiana beer bottle Henry Stein, Plymouth IN",no description,record,image/jpg,multiple,,/objects/small/67_1_sm.jpg,/objects/thumbs/67_1_th.jpg
+,dcb67,,,,,,/objects/67_1.JPG,/objects/small/67_1_sm.jpg,/objects/thumbs/67_1_th.jpg
+,dcb67,,,,,,/objects/67_2.JPG,/objects/small/67_2_sm.jpg,/objects/thumbs/67_2_th.jpg
+dcb68,,"Lincoln Bitters bottle Fort Wayne IN, with label",no description,record,image/jpg,multiple,,/objects/small/68_1_sm.jpg,/objects/thumbs/68_1_th.jpg
+,dcb68,,,,,,/objects/68_1.JPG,/objects/small/68_1_sm.jpg,/objects/thumbs/68_1_th.jpg
+,dcb68,,,,,,/objects/68_2.JPG,/objects/small/68_2_sm.jpg,/objects/thumbs/68_2_th.jpg
+dcb69,,"W.R. Cabler's Root Juice, bitters bottle, Fort","Wayne IN, with label",record,image/jpg,multiple,,/objects/small/69_1_sm.jpg,/objects/thumbs/69_1_th.jpg
+,dcb69,,,,,,/objects/69_1.JPG,/objects/small/69_1_sm.jpg,/objects/thumbs/69_1_th.jpg
+,dcb69,,,,,,/objects/69_2.JPG,/objects/small/69_2_sm.jpg,/objects/thumbs/69_2_th.jpg
+dcb70,,Indiana beer bottle C.L. Centlivre Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/70_1_sm.jpg,/objects/thumbs/70_1_th.jpg
+,dcb70,,,,,,/objects/70_1.JPG,/objects/small/70_1_sm.jpg,/objects/thumbs/70_1_th.jpg
+,dcb70,,,,,,/objects/70_2.JPG,/objects/small/70_2_sm.jpg,/objects/thumbs/70_2_th.jpg
+dcb71,,"Indiana beer bottle C.L. Centlivre Fort Wayne IN,",honey amber,record,image/jpg,multiple,,/objects/small/71_1_sm.jpg,/objects/thumbs/71_1_th.jpg
+,dcb71,,,,,,/objects/71_1.JPG,/objects/small/71_1_sm.jpg,/objects/thumbs/71_1_th.jpg
+,dcb71,,,,,,/objects/71_2.JPG,/objects/small/71_2_sm.jpg,/objects/thumbs/71_2_th.jpg
+dcb72,,Indiana beer bottle C.L. Centlivre Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/72_1_sm.jpg,/objects/thumbs/72_1_th.jpg
+,dcb72,,,,,,/objects/72_1.JPG,/objects/small/72_1_sm.jpg,/objects/thumbs/72_1_th.jpg
+,dcb72,,,,,,/objects/72_2.JPG,/objects/small/72_2_sm.jpg,/objects/thumbs/72_2_th.jpg
+dcb73,,"Indiana beer bottle C.L. Centlivre Fort Wayne IN,",French Lager,record,image/jpg,multiple,,/objects/small/73_1_sm.jpg,/objects/thumbs/73_1_th.jpg
+,dcb73,,,,,,/objects/73_1.JPG,/objects/small/73_1_sm.jpg,/objects/thumbs/73_1_th.jpg
+,dcb73,,,,,,/objects/73_2.JPG,/objects/small/73_2_sm.jpg,/objects/thumbs/73_2_th.jpg
+dcb74,,"Indiana beer bottle C.L. Centlivre Fort Wayne IN,",French Lager,record,image/jpg,multiple,,/objects/small/74_1_sm.jpg,/objects/thumbs/74_1_th.jpg
+,dcb74,,,,,,/objects/74_1.JPG,/objects/small/74_1_sm.jpg,/objects/thumbs/74_1_th.jpg
+,dcb74,,,,,,/objects/74_2.JPG,/objects/small/74_2_sm.jpg,/objects/thumbs/74_2_th.jpg
+dcb75,,"Indiana beer bottle C.L. Centlivre Fort Wayne IN,","French Lager, pint",record,image/jpg,multiple,,/objects/small/75_1_sm.jpg,/objects/thumbs/75_1_th.jpg
+,dcb75,,,,,,/objects/75_1.JPG,/objects/small/75_1_sm.jpg,/objects/thumbs/75_1_th.jpg
+,dcb75,,,,,,/objects/75_2.JPG,/objects/small/75_2_sm.jpg,/objects/thumbs/75_2_th.jpg
+dcb76,,Indiana beer bottle F. Hake & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/76_1_sm.jpg,/objects/thumbs/76_1_th.jpg
+,dcb76,,,,,,/objects/76_1.JPG,/objects/small/76_1_sm.jpg,/objects/thumbs/76_1_th.jpg
+,dcb76,,,,,,/objects/76_2.JPG,/objects/small/76_2_sm.jpg,/objects/thumbs/76_2_th.jpg
+dcb77,,Indiana beer bottle F. Hake & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/77_1_sm.jpg,/objects/thumbs/77_1_th.jpg
+,dcb77,,,,,,/objects/77_1.JPG,/objects/small/77_1_sm.jpg,/objects/thumbs/77_1_th.jpg
+,dcb77,,,,,,/objects/77_2.JPG,/objects/small/77_2_sm.jpg,/objects/thumbs/77_2_th.jpg
+dcb78,,Indiana beer bottle F. Hake & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/78_1_sm.jpg,/objects/thumbs/78_1_th.jpg
+,dcb78,,,,,,/objects/78_1.JPG,/objects/small/78_1_sm.jpg,/objects/thumbs/78_1_th.jpg
+,dcb78,,,,,,/objects/78_2.JPG,/objects/small/78_2_sm.jpg,/objects/thumbs/78_2_th.jpg
+dcb79,,Indiana beer bottle F. Hake & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/79_1_sm.jpg,/objects/thumbs/79_1_th.jpg
+,dcb79,,,,,,/objects/79_1.JPG,/objects/small/79_1_sm.jpg,/objects/thumbs/79_1_th.jpg
+,dcb79,,,,,,/objects/79_2.JPG,/objects/small/79_2_sm.jpg,/objects/thumbs/79_2_th.jpg
+dcb80,,Indiana beer bottle F. Hake & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/80_1_sm.jpg,/objects/thumbs/80_1_th.jpg
+,dcb80,,,,,,/objects/80_1.JPG,/objects/small/80_1_sm.jpg,/objects/thumbs/80_1_th.jpg
+,dcb80,,,,,,/objects/80_2.JPG,/objects/small/80_2_sm.jpg,/objects/thumbs/80_2_th.jpg
+dcb81,,Indiana beer bottle Hake Certia  & Co Fort Wayne,"Bottling Works, rare",record,image/jpg,multiple,,/objects/small/81_1_sm.jpg,/objects/thumbs/81_1_th.jpg
+,dcb81,,,,,,/objects/81_1.JPG,/objects/small/81_1_sm.jpg,/objects/thumbs/81_1_th.jpg
+,dcb81,,,,,,/objects/81_2.JPG,/objects/small/81_2_sm.jpg,/objects/thumbs/81_2_th.jpg
+dcb82,,Indiana beer bottle Hake Certia  & Co Fort Wayne,"Bottling Works, rare",record,image/jpg,multiple,,/objects/small/82_1_sm.jpg,/objects/thumbs/82_1_th.jpg
+,dcb82,,,,,,/objects/82_1.JPG,/objects/small/82_1_sm.jpg,/objects/thumbs/82_1_th.jpg
+,dcb82,,,,,,/objects/82_2.JPG,/objects/small/82_2_sm.jpg,/objects/thumbs/82_2_th.jpg
+dcb83,,Indiana beer bottle F. Hake  & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/83_1_sm.jpg,/objects/thumbs/83_1_th.jpg
+,dcb83,,,,,,/objects/83_1.JPG,/objects/small/83_1_sm.jpg,/objects/thumbs/83_1_th.jpg
+,dcb83,,,,,,/objects/83_2.JPG,/objects/small/83_2_sm.jpg,/objects/thumbs/83_2_th.jpg
+dcb84,,Indiana beer bottle F. Hake  & Co Fort Wayne,Bottling Works,record,image/jpg,multiple,,/objects/small/84_1_sm.jpg,/objects/thumbs/84_1_th.jpg
+,dcb84,,,,,,/objects/84_1.JPG,/objects/small/84_1_sm.jpg,/objects/thumbs/84_1_th.jpg
+,dcb84,,,,,,/objects/84_2.JPG,/objects/small/84_2_sm.jpg,/objects/thumbs/84_2_th.jpg
+dcb85,,"Indiana beer bottle F. C. Reese, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/85_1_sm.jpg,/objects/thumbs/85_1_th.jpg
+,dcb85,,,,,,/objects/85_1.JPG,/objects/small/85_1_sm.jpg,/objects/thumbs/85_1_th.jpg
+,dcb85,,,,,,/objects/85_2.JPG,/objects/small/85_2_sm.jpg,/objects/thumbs/85_2_th.jpg
+dcb86,,"Indiana beer bottle F. C. Reese, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/86_1_sm.jpg,/objects/thumbs/86_1_th.jpg
+,dcb86,,,,,,/objects/86_1.JPG,/objects/small/86_1_sm.jpg,/objects/thumbs/86_1_th.jpg
+,dcb86,,,,,,/objects/86_2.JPG,/objects/small/86_2_sm.jpg,/objects/thumbs/86_2_th.jpg
+dcb87,,"Indiana beer bottle F. C. Reese, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/87_1_sm.jpg,/objects/thumbs/87_1_th.jpg
+,dcb87,,,,,,/objects/87_1.JPG,/objects/small/87_1_sm.jpg,/objects/thumbs/87_1_th.jpg
+,dcb87,,,,,,/objects/87_2.JPG,/objects/small/87_2_sm.jpg,/objects/thumbs/87_2_th.jpg
+dcb88,,"Ind. soda bottle, F. Hake & Co Bottling House Ft W",no description,record,image/jpg,multiple,,/objects/small/88_1_sm.jpg,/objects/thumbs/88_1_th.jpg
+,dcb88,,,,,,/objects/88_1.JPG,/objects/small/88_1_sm.jpg,/objects/thumbs/88_1_th.jpg
+,dcb88,,,,,,/objects/88_2.JPG,/objects/small/88_2_sm.jpg,/objects/thumbs/88_2_th.jpg
+dcb89,,"Ind. soda bottle, F. Hake & Co Bottling House Ft W",no description,record,image/jpg,multiple,,/objects/small/89_1_sm.jpg,/objects/thumbs/89_1_th.jpg
+,dcb89,,,,,,/objects/89_1.JPG,/objects/small/89_1_sm.jpg,/objects/thumbs/89_1_th.jpg
+,dcb89,,,,,,/objects/89_2.JPG,/objects/small/89_2_sm.jpg,/objects/thumbs/89_2_th.jpg
+dcb90,,"Ind. soda bottle, F. Hake & Co Bottling House Ft W",no description,record,image/jpg,multiple,,/objects/small/90_1_sm.jpg,/objects/thumbs/90_1_th.jpg
+,dcb90,,,,,,/objects/90_1.JPG,/objects/small/90_1_sm.jpg,/objects/thumbs/90_1_th.jpg
+,dcb90,,,,,,/objects/90_2.JPG,/objects/small/90_2_sm.jpg,/objects/thumbs/90_2_th.jpg
+dcb91,,"Ind. soda bottle, F. Hake & Co Bottling House Ft W",no description,record,image/jpg,multiple,,/objects/small/91_1_sm.jpg,/objects/thumbs/91_1_th.jpg
+,dcb91,,,,,,/objects/91_1.JPG,/objects/small/91_1_sm.jpg,/objects/thumbs/91_1_th.jpg
+,dcb91,,,,,,/objects/91_2.JPG,/objects/small/91_2_sm.jpg,/objects/thumbs/91_2_th.jpg
+dcb92,,"Indiana beer bottle Berghoff, Fort Wayne Ind",no description,record,image/jpg,multiple,,/objects/small/92_1_sm.jpg,/objects/thumbs/92_1_th.jpg
+,dcb92,,,,,,/objects/92_1.JPG,/objects/small/92_1_sm.jpg,/objects/thumbs/92_1_th.jpg
+,dcb92,,,,,,/objects/92_2.JPG,/objects/small/92_2_sm.jpg,/objects/thumbs/92_2_th.jpg
+dcb93,,"Indiana beer bottle H. Berghoff Brewing Co,",Ft Wayne Ind,record,image/jpg,multiple,,/objects/small/93_1_sm.jpg,/objects/thumbs/93_1_th.jpg
+,dcb93,,,,,,/objects/93_1.JPG,/objects/small/93_1_sm.jpg,/objects/thumbs/93_1_th.jpg
+,dcb93,,,,,,/objects/93_2.JPG,/objects/small/93_2_sm.jpg,/objects/thumbs/93_2_th.jpg
+dcb94,,"Indiana beer bottle George H. Heit, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/94_1_sm.jpg,/objects/thumbs/94_1_th.jpg
+,dcb94,,,,,,/objects/94_1.JPG,/objects/small/94_1_sm.jpg,/objects/thumbs/94_1_th.jpg
+,dcb94,,,,,,/objects/94_2.JPG,/objects/small/94_2_sm.jpg,/objects/thumbs/94_2_th.jpg
+dcb95,,"Indiana beer bottle George H. Heit, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/95_1_sm.jpg,/objects/thumbs/95_1_th.jpg
+,dcb95,,,,,,/objects/95_1.JPG,/objects/small/95_1_sm.jpg,/objects/thumbs/95_1_th.jpg
+,dcb95,,,,,,/objects/95_2.JPG,/objects/small/95_2_sm.jpg,/objects/thumbs/95_2_th.jpg
+dcb96,,"Indiana beer bottle George H. Heit, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/96_1_sm.jpg,/objects/thumbs/96_1_th.jpg
+,dcb96,,,,,,/objects/96_1.JPG,/objects/small/96_1_sm.jpg,/objects/thumbs/96_1_th.jpg
+,dcb96,,,,,,/objects/96_2.JPG,/objects/small/96_2_sm.jpg,/objects/thumbs/96_2_th.jpg
+dcb97,,"Indiana beer bottle George H. Heit, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/97_1_sm.jpg,/objects/thumbs/97_1_th.jpg
+,dcb97,,,,,,/objects/97_1.JPG,/objects/small/97_1_sm.jpg,/objects/thumbs/97_1_th.jpg
+,dcb97,,,,,,/objects/97_2.JPG,/objects/small/97_2_sm.jpg,/objects/thumbs/97_2_th.jpg
+dcb98,,"Indiana beer bottle George H. Heit, Fort Wayne IN,",pint,record,image/jpg,multiple,,/objects/small/98_1_sm.jpg,/objects/thumbs/98_1_th.jpg
+,dcb98,,,,,,/objects/98_1.JPG,/objects/small/98_1_sm.jpg,/objects/thumbs/98_1_th.jpg
+,dcb98,,,,,,/objects/98_2.JPG,/objects/small/98_2_sm.jpg,/objects/thumbs/98_2_th.jpg
+dcb99,,"Indiana beer bottle George H. Heit, Fort Wayne IN,",pint,record,image/jpg,multiple,,/objects/small/99_1_sm.jpg,/objects/thumbs/99_1_th.jpg
+,dcb99,,,,,,/objects/99_1.JPG,/objects/small/99_1_sm.jpg,/objects/thumbs/99_1_th.jpg
+,dcb99,,,,,,/objects/99_2.JPG,/objects/small/99_2_sm.jpg,/objects/thumbs/99_2_th.jpg
+dcb100,,Indiana beer bottle Fred Helling Jr Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/100_1_sm.jpg,/objects/thumbs/100_1_th.jpg
+,dcb100,,,,,,/objects/100_1.JPG,/objects/small/100_1_sm.jpg,/objects/thumbs/100_1_th.jpg
+,dcb100,,,,,,/objects/100_2.JPG,/objects/small/100_2_sm.jpg,/objects/thumbs/100_2_th.jpg
+dcb101,,Indiana beer bottle Fred Helling Jr Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/101_1_sm.jpg,/objects/thumbs/101_1_th.jpg
+,dcb101,,,,,,/objects/101_1.JPG,/objects/small/101_1_sm.jpg,/objects/thumbs/101_1_th.jpg
+,dcb101,,,,,,/objects/101_2.JPG,/objects/small/101_2_sm.jpg,/objects/thumbs/101_2_th.jpg
+dcb102,,Indiana beer bottle Fred Helling Jr Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/102_1_sm.jpg,/objects/thumbs/102_1_th.jpg
+,dcb102,,,,,,/objects/102_1.JPG,/objects/small/102_1_sm.jpg,/objects/thumbs/102_1_th.jpg
+,dcb102,,,,,,/objects/102_2.JPG,/objects/small/102_2_sm.jpg,/objects/thumbs/102_2_th.jpg
+dcb103,,Indiana beer bottle Fred Helling Jr Fort Wayne IN,no description,record,image/jpg,multiple,,/objects/small/103_1_sm.jpg,/objects/thumbs/103_1_th.jpg
+,dcb103,,,,,,/objects/103_1.JPG,/objects/small/103_1_sm.jpg,/objects/thumbs/103_1_th.jpg
+,dcb103,,,,,,/objects/103_2.JPG,/objects/small/103_2_sm.jpg,/objects/thumbs/103_2_th.jpg
+dcb104,,"Indiana soda bottle A.J. Dick Bottling Works,",Michigan City IN,record,image/jpg,multiple,,/objects/small/104_1_sm.jpg,/objects/thumbs/104_1_th.jpg
+,dcb104,,,,,,/objects/104_1.JPG,/objects/small/104_1_sm.jpg,/objects/thumbs/104_1_th.jpg
+,dcb104,,,,,,/objects/104_2.JPG,/objects/small/104_2_sm.jpg,/objects/thumbs/104_2_th.jpg
+dcb105,,Indiana soda bottle Chas. H. Mayer & Co Hammond IN,no description,record,image/jpg,multiple,,/objects/small/105_1_sm.jpg,/objects/thumbs/105_1_th.jpg
+,dcb105,,,,,,/objects/105_1.JPG,/objects/small/105_1_sm.jpg,/objects/thumbs/105_1_th.jpg
+,dcb105,,,,,,/objects/105_2.JPG,/objects/small/105_2_sm.jpg,/objects/thumbs/105_2_th.jpg
+dcb106,,"Ohio soda bottle, City Bottling Works, Toledo Ohio",no description,record,image/jpg,multiple,,/objects/small/106_1_sm.jpg,/objects/thumbs/106_1_th.jpg
+,dcb106,,,,,,/objects/106_1.JPG,/objects/small/106_1_sm.jpg,/objects/thumbs/106_1_th.jpg
+,dcb106,,,,,,/objects/106_2.JPG,/objects/small/106_2_sm.jpg,/objects/thumbs/106_2_th.jpg
+dcb107,,"Indiana soda bottle Link Bros. Auburn Junction,","Ind. chip to top with 1"" hairline",record,image/jpg,multiple,,/objects/small/107_1_sm.jpg,/objects/thumbs/107_1_th.jpg
+,dcb107,,,,,,/objects/107_1.JPG,/objects/small/107_1_sm.jpg,/objects/thumbs/107_1_th.jpg
+,dcb107,,,,,,/objects/107_2.JPG,/objects/small/107_2_sm.jpg,/objects/thumbs/107_2_th.jpg
+dcb108,,"Indiana soda bottle W.B. Enyart, Logansport IN",no description,record,image/jpg,multiple,,/objects/small/108_1_sm.jpg,/objects/thumbs/108_1_th.jpg
+,dcb108,,,,,,/objects/108_1.JPG,/objects/small/108_1_sm.jpg,/objects/thumbs/108_1_th.jpg
+,dcb108,,,,,,/objects/108_2.JPG,/objects/small/108_2_sm.jpg,/objects/thumbs/108_2_th.jpg
+dcb109,,Indiana soda bottle L. Brames & Son Fort,Wayne IN,record,image/jpg,multiple,,/objects/small/109_1_sm.jpg,/objects/thumbs/109_1_th.jpg
+,dcb109,,,,,,/objects/109_1.JPG,/objects/small/109_1_sm.jpg,/objects/thumbs/109_1_th.jpg
+,dcb109,,,,,,/objects/109_2.JPG,/objects/small/109_2_sm.jpg,/objects/thumbs/109_2_th.jpg
+dcb110,,"Indiana soda bottle Kunz & Ritzmann,",Lawrenceburg IN,record,image/jpg,multiple,,/objects/small/110_1_sm.jpg,/objects/thumbs/110_1_th.jpg
+,dcb110,,,,,,/objects/110_1.JPG,/objects/small/110_1_sm.jpg,/objects/thumbs/110_1_th.jpg
+,dcb110,,,,,,/objects/110_2.JPG,/objects/small/110_2_sm.jpg,/objects/thumbs/110_2_th.jpg
+dcb111,,Indiana soda bottle Chas. H. Mayer Hammond IN,no description,record,image/jpg,multiple,,/objects/small/111_1_sm.jpg,/objects/thumbs/111_1_th.jpg
+,dcb111,,,,,,/objects/111_1.JPG,/objects/small/111_1_sm.jpg,/objects/thumbs/111_1_th.jpg
+,dcb111,,,,,,/objects/111_2.JPG,/objects/small/111_2_sm.jpg,/objects/thumbs/111_2_th.jpg
+dcb112,,Indiana soda bottle Thos. Burger South Bend IN,no description,record,image/jpg,multiple,,/objects/small/112_1_sm.jpg,/objects/thumbs/112_1_th.jpg
+,dcb112,,,,,,/objects/112_1.JPG,/objects/small/112_1_sm.jpg,/objects/thumbs/112_1_th.jpg
+,dcb112,,,,,,/objects/112_2.JPG,/objects/small/112_2_sm.jpg,/objects/thumbs/112_2_th.jpg
+dcb113,,Indiana soda bottle C.W. Arnold South Bend IN,no description,record,image/jpg,multiple,,/objects/small/113_1_sm.jpg,/objects/thumbs/113_1_th.jpg
+,dcb113,,,,,,/objects/113_1.JPG,/objects/small/113_1_sm.jpg,/objects/thumbs/113_1_th.jpg
+,dcb113,,,,,,/objects/113_2.JPG,/objects/small/113_2_sm.jpg,/objects/thumbs/113_2_th.jpg
+dcb114,,"Indiana soda bottle J.S., South Bend IN",no description,record,image/jpg,multiple,,/objects/small/114_1_sm.jpg,/objects/thumbs/114_1_th.jpg
+,dcb114,,,,,,/objects/114_1.JPG,/objects/small/114_1_sm.jpg,/objects/thumbs/114_1_th.jpg
+,dcb114,,,,,,/objects/114_2.JPG,/objects/small/114_2_sm.jpg,/objects/thumbs/114_2_th.jpg
+dcb115,,Indiana soda bottle H.L. Studer's Mineral Water,"Works, Ft W",record,image/jpg,multiple,,/objects/small/115_1_sm.jpg,/objects/thumbs/115_1_th.jpg
+,dcb115,,,,,,/objects/115_1.JPG,/objects/small/115_1_sm.jpg,/objects/thumbs/115_1_th.jpg
+,dcb115,,,,,,/objects/115_2.JPG,/objects/small/115_2_sm.jpg,/objects/thumbs/115_2_th.jpg
+dcb116,,"Indiana soda bottle Saml. Stone-Son, Elkhart IN,",small chip to top,record,image/jpg,multiple,,/objects/small/116_1_sm.jpg,/objects/thumbs/116_1_th.jpg
+,dcb116,,,,,,/objects/116_1.JPG,/objects/small/116_1_sm.jpg,/objects/thumbs/116_1_th.jpg
+,dcb116,,,,,,/objects/116_2.JPG,/objects/small/116_2_sm.jpg,/objects/thumbs/116_2_th.jpg
+dcb117,,"Indiana soda bottle Richmond Mineral Water Works,",Richmond IN,record,image/jpg,multiple,,/objects/small/117_1_sm.jpg,/objects/thumbs/117_1_th.jpg
+,dcb117,,,,,,/objects/117_1.JPG,/objects/small/117_1_sm.jpg,/objects/thumbs/117_1_th.jpg
+,dcb117,,,,,,/objects/117_2.JPG,/objects/small/117_2_sm.jpg,/objects/thumbs/117_2_th.jpg
+dcb118,,Indiana soda bottle Mineral Bottling Co. Marion IN,no description,record,image/jpg,multiple,,/objects/small/118_1_sm.jpg,/objects/thumbs/118_1_th.jpg
+,dcb118,,,,,,/objects/118_1.JPG,/objects/small/118_1_sm.jpg,/objects/thumbs/118_1_th.jpg
+,dcb118,,,,,,/objects/118_2.JPG,/objects/small/118_2_sm.jpg,/objects/thumbs/118_2_th.jpg
+dcb119,,"Indiana soda bottle J. W. Place, Decatur IN",no description,record,image/jpg,multiple,,/objects/small/119_1_sm.jpg,/objects/thumbs/119_1_th.jpg
+,dcb119,,,,,,/objects/119_1.JPG,/objects/small/119_1_sm.jpg,/objects/thumbs/119_1_th.jpg
+,dcb119,,,,,,/objects/119_2.JPG,/objects/small/119_2_sm.jpg,/objects/thumbs/119_2_th.jpg
+dcb120,,"Indiana soda bottle Montezuma Bottling Works,",Montezuma IN,record,image/jpg,multiple,,/objects/small/120_1_sm.jpg,/objects/thumbs/120_1_th.jpg
+,dcb120,,,,,,/objects/120_1.JPG,/objects/small/120_1_sm.jpg,/objects/thumbs/120_1_th.jpg
+,dcb120,,,,,,/objects/120_2.JPG,/objects/small/120_2_sm.jpg,/objects/thumbs/120_2_th.jpg
+dcb121,,"Indiana soda bottle Kunz & Ritzmann Lawrenceburg,",IN,record,image/jpg,multiple,,/objects/small/121_1_sm.jpg,/objects/thumbs/121_1_th.jpg
+,dcb121,,,,,,/objects/121_1.JPG,/objects/small/121_1_sm.jpg,/objects/thumbs/121_1_th.jpg
+,dcb121,,,,,,/objects/121_2.JPG,/objects/small/121_2_sm.jpg,/objects/thumbs/121_2_th.jpg
+dcb122,,"Indiana soda bottle City Steam Bottling Works,",Ft Wayne,record,image/jpg,multiple,,/objects/small/122_1_sm.jpg,/objects/thumbs/122_1_th.jpg
+,dcb122,,,,,,/objects/122_1.JPG,/objects/small/122_1_sm.jpg,/objects/thumbs/122_1_th.jpg
+,dcb122,,,,,,/objects/122_2.JPG,/objects/small/122_2_sm.jpg,/objects/thumbs/122_2_th.jpg
+dcb123,,"Indiana soda bottle James H. Gorman,",Logansport IN,record,image/jpg,multiple,,/objects/small/123_1_sm.jpg,/objects/thumbs/123_1_th.jpg
+,dcb123,,,,,,/objects/123_1.JPG,/objects/small/123_1_sm.jpg,/objects/thumbs/123_1_th.jpg
+,dcb123,,,,,,/objects/123_2.JPG,/objects/small/123_2_sm.jpg,/objects/thumbs/123_2_th.jpg
+dcb124,,Indiana soda bottle P.W. Ward Indianapolis IN,no description,record,image/jpg,multiple,,/objects/small/124_1_sm.jpg,/objects/thumbs/124_1_th.jpg
+,dcb124,,,,,,/objects/124_1.JPG,/objects/small/124_1_sm.jpg,/objects/thumbs/124_1_th.jpg
+,dcb124,,,,,,/objects/124_2.JPG,/objects/small/124_2_sm.jpg,/objects/thumbs/124_2_th.jpg
+dcb125,,Indiana soda bottle Thos. Burger South Bend IN,no description,record,image/jpg,multiple,,/objects/small/125_1_sm.jpg,/objects/thumbs/125_1_th.jpg
+,dcb125,,,,,,/objects/125_1.JPG,/objects/small/125_1_sm.jpg,/objects/thumbs/125_1_th.jpg
+,dcb125,,,,,,/objects/125_2.JPG,/objects/small/125_2_sm.jpg,/objects/thumbs/125_2_th.jpg
+dcb126,,"Indiana soda bottle Portland Bottling Works,",Portland IN,record,image/jpg,multiple,,/objects/small/126_1_sm.jpg,/objects/thumbs/126_1_th.jpg
+,dcb126,,,,,,/objects/126_1.JPG,/objects/small/126_1_sm.jpg,/objects/thumbs/126_1_th.jpg
+,dcb126,,,,,,/objects/126_2.JPG,/objects/small/126_2_sm.jpg,/objects/thumbs/126_2_th.jpg
+dcb127,,Indiana soda bottle I.T. Fosler Richmond IN,no description,record,image/jpg,multiple,,/objects/small/127_1_sm.jpg,/objects/thumbs/127_1_th.jpg
+,dcb127,,,,,,/objects/127_1.JPG,/objects/small/127_1_sm.jpg,/objects/thumbs/127_1_th.jpg
+,dcb127,,,,,,/objects/127_2.JPG,/objects/small/127_2_sm.jpg,/objects/thumbs/127_2_th.jpg
+dcb128,,Indiana soda bottle Henry Dieck Seymour IN,no description,record,image/jpg,multiple,,/objects/small/128_1_sm.jpg,/objects/thumbs/128_1_th.jpg
+,dcb128,,,,,,/objects/128_1.JPG,/objects/small/128_1_sm.jpg,/objects/thumbs/128_1_th.jpg
+,dcb128,,,,,,/objects/128_2.JPG,/objects/small/128_2_sm.jpg,/objects/thumbs/128_2_th.jpg
+dcb129,,"Indiana soda bottle Chas. Wunderlich & Son,",Evansville IN,record,image/jpg,multiple,,/objects/small/129_1_sm.jpg,/objects/thumbs/129_1_th.jpg
+,dcb129,,,,,,/objects/129_1.JPG,/objects/small/129_1_sm.jpg,/objects/thumbs/129_1_th.jpg
+,dcb129,,,,,,/objects/129_2.JPG,/objects/small/129_2_sm.jpg,/objects/thumbs/129_2_th.jpg
+dcb130,,Indiana soda bottle John Forthoffer Mt Vernon IN,no description,record,image/jpg,multiple,,/objects/small/130_1_sm.jpg,/objects/thumbs/130_1_th.jpg
+,dcb130,,,,,,/objects/130_1.JPG,/objects/small/130_1_sm.jpg,/objects/thumbs/130_1_th.jpg
+,dcb130,,,,,,/objects/130_2.JPG,/objects/small/130_2_sm.jpg,/objects/thumbs/130_2_th.jpg
+dcb131,,Indiana soda bottle Smith & Jones Brazil IN,no description,record,image/jpg,multiple,,/objects/small/131_1_sm.jpg,/objects/thumbs/131_1_th.jpg
+,dcb131,,,,,,/objects/131_1.JPG,/objects/small/131_1_sm.jpg,/objects/thumbs/131_1_th.jpg
+,dcb131,,,,,,/objects/131_2.JPG,/objects/small/131_2_sm.jpg,/objects/thumbs/131_2_th.jpg
+dcb132,,"Indiana soda bottle Warsaw Bottling Works,",Warsaw IN,record,image/jpg,multiple,,/objects/small/132_1_sm.jpg,/objects/thumbs/132_1_th.jpg
+,dcb132,,,,,,/objects/132_1.JPG,/objects/small/132_1_sm.jpg,/objects/thumbs/132_1_th.jpg
+,dcb132,,,,,,/objects/132_2.JPG,/objects/small/132_2_sm.jpg,/objects/thumbs/132_2_th.jpg
+dcb133,,Indiana soda bottle Ph. E.K. City Soda Works,Indianapolis IN,record,image/jpg,multiple,,/objects/small/133_1_sm.jpg,/objects/thumbs/133_1_th.jpg
+,dcb133,,,,,,/objects/133_1.JPG,/objects/small/133_1_sm.jpg,/objects/thumbs/133_1_th.jpg
+,dcb133,,,,,,/objects/133_2.JPG,/objects/small/133_2_sm.jpg,/objects/thumbs/133_2_th.jpg
+dcb134,,Indiana soda bottle Richard F. Fullerton,Kendallville IN,record,image/jpg,multiple,,/objects/small/134_1_sm.jpg,/objects/thumbs/134_1_th.jpg
+,dcb134,,,,,,/objects/134_1.JPG,/objects/small/134_1_sm.jpg,/objects/thumbs/134_1_th.jpg
+,dcb134,,,,,,/objects/134_2.JPG,/objects/small/134_2_sm.jpg,/objects/thumbs/134_2_th.jpg
+dcb135,,Indiana soda bottle Richard F. Fullerton,Kendallville IN,record,image/jpg,multiple,,/objects/small/135_1_sm.jpg,/objects/thumbs/135_1_th.jpg
+,dcb135,,,,,,/objects/135_1.JPG,/objects/small/135_1_sm.jpg,/objects/thumbs/135_1_th.jpg
+,dcb135,,,,,,/objects/135_2.JPG,/objects/small/135_2_sm.jpg,/objects/thumbs/135_2_th.jpg
+dcb136,,"Indiana soda bottle Kendallville Bottling Works,",Kendallville IN,record,image/jpg,multiple,,/objects/small/136_1_sm.jpg,/objects/thumbs/136_1_th.jpg
+,dcb136,,,,,,/objects/136_1.JPG,/objects/small/136_1_sm.jpg,/objects/thumbs/136_1_th.jpg
+,dcb136,,,,,,/objects/136_2.JPG,/objects/small/136_2_sm.jpg,/objects/thumbs/136_2_th.jpg
+dcb137,,Indiana soda bottle E.B. Co. Evansville IN,no description,record,image/jpg,multiple,,/objects/small/137_1_sm.jpg,/objects/thumbs/137_1_th.jpg
+,dcb137,,,,,,/objects/137_1.JPG,/objects/small/137_1_sm.jpg,/objects/thumbs/137_1_th.jpg
+,dcb137,,,,,,/objects/137_2.JPG,/objects/small/137_2_sm.jpg,/objects/thumbs/137_2_th.jpg
+dcb138,,Indiana soda bottle H.L. Studer Mineral Water,"Works, Ft Wayne",record,image/jpg,multiple,,/objects/small/138_1_sm.jpg,/objects/thumbs/138_1_th.jpg
+,dcb138,,,,,,/objects/138_1.JPG,/objects/small/138_1_sm.jpg,/objects/thumbs/138_1_th.jpg
+,dcb138,,,,,,/objects/138_2.JPG,/objects/small/138_2_sm.jpg,/objects/thumbs/138_2_th.jpg
+dcb139,,Indiana soda bottle J.T. Radmaker Marion IN,no description,record,image/jpg,multiple,,/objects/small/139_1_sm.jpg,/objects/thumbs/139_1_th.jpg
+,dcb139,,,,,,/objects/139_1.JPG,/objects/small/139_1_sm.jpg,/objects/thumbs/139_1_th.jpg
+,dcb139,,,,,,/objects/139_2.JPG,/objects/small/139_2_sm.jpg,/objects/thumbs/139_2_th.jpg
+dcb140,,Indiana soda bottle P.W. Ward Indianapolis IN,no description,record,image/jpg,multiple,,/objects/small/140_1_sm.jpg,/objects/thumbs/140_1_th.jpg
+,dcb140,,,,,,/objects/140_1.JPG,/objects/small/140_1_sm.jpg,/objects/thumbs/140_1_th.jpg
+,dcb140,,,,,,/objects/140_2.JPG,/objects/small/140_2_sm.jpg,/objects/thumbs/140_2_th.jpg
+dcb141,,"Indiana bottle, Richard E. Fullerton Kendallville,",IN,record,image/jpg,multiple,,/objects/small/141_1_sm.jpg,/objects/thumbs/141_1_th.jpg
+,dcb141,,,,,,/objects/141_1.JPG,/objects/small/141_1_sm.jpg,/objects/thumbs/141_1_th.jpg
+,dcb141,,,,,,/objects/141_2.JPG,/objects/small/141_2_sm.jpg,/objects/thumbs/141_2_th.jpg
+dcb142,,Indiana beer bottle Wm. Scheele Mineral Water,"Works, Ft W",record,image/jpg,multiple,,/objects/small/142_1_sm.jpg,/objects/thumbs/142_1_th.jpg
+,dcb142,,,,,,/objects/142_1.JPG,/objects/small/142_1_sm.jpg,/objects/thumbs/142_1_th.jpg
+,dcb142,,,,,,/objects/142_2.JPG,/objects/small/142_2_sm.jpg,/objects/thumbs/142_2_th.jpg
+dcb143,,Indiana beer bottle Wm. Scheele Mineral Water,"Works, Ft W",record,image/jpg,multiple,,/objects/small/143_1_sm.jpg,/objects/thumbs/143_1_th.jpg
+,dcb143,,,,,,/objects/143_1.JPG,/objects/small/143_1_sm.jpg,/objects/thumbs/143_1_th.jpg
+,dcb143,,,,,,/objects/143_2.JPG,/objects/small/143_2_sm.jpg,/objects/thumbs/143_2_th.jpg
+dcb144,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/144_1_sm.jpg,/objects/thumbs/144_1_th.jpg
+,dcb144,,,,,,/objects/144_1.JPG,/objects/small/144_1_sm.jpg,/objects/thumbs/144_1_th.jpg
+,dcb144,,,,,,/objects/144_2.JPG,/objects/small/144_2_sm.jpg,/objects/thumbs/144_2_th.jpg
+dcb145,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/145_1_sm.jpg,/objects/thumbs/145_1_th.jpg
+,dcb145,,,,,,/objects/145_1.JPG,/objects/small/145_1_sm.jpg,/objects/thumbs/145_1_th.jpg
+,dcb145,,,,,,/objects/145_2.JPG,/objects/small/145_2_sm.jpg,/objects/thumbs/145_2_th.jpg
+dcb146,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/146_1_sm.jpg,/objects/thumbs/146_1_th.jpg
+,dcb146,,,,,,/objects/146_1.JPG,/objects/small/146_1_sm.jpg,/objects/thumbs/146_1_th.jpg
+,dcb146,,,,,,/objects/146_2.JPG,/objects/small/146_2_sm.jpg,/objects/thumbs/146_2_th.jpg
+dcb147,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/147_1_sm.jpg,/objects/thumbs/147_1_th.jpg
+,dcb147,,,,,,/objects/147_1.JPG,/objects/small/147_1_sm.jpg,/objects/thumbs/147_1_th.jpg
+,dcb147,,,,,,/objects/147_2.JPG,/objects/small/147_2_sm.jpg,/objects/thumbs/147_2_th.jpg
+dcb148,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/148_1_sm.jpg,/objects/thumbs/148_1_th.jpg
+,dcb148,,,,,,/objects/148_1.JPG,/objects/small/148_1_sm.jpg,/objects/thumbs/148_1_th.jpg
+,dcb148,,,,,,/objects/148_2.JPG,/objects/small/148_2_sm.jpg,/objects/thumbs/148_2_th.jpg
+dcb149,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/149_1_sm.jpg,/objects/thumbs/149_1_th.jpg
+,dcb149,,,,,,/objects/149_1.JPG,/objects/small/149_1_sm.jpg,/objects/thumbs/149_1_th.jpg
+,dcb149,,,,,,/objects/149_2.JPG,/objects/small/149_2_sm.jpg,/objects/thumbs/149_2_th.jpg
+dcb150,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/150_1_sm.jpg,/objects/thumbs/150_1_th.jpg
+,dcb150,,,,,,/objects/150_1.JPG,/objects/small/150_1_sm.jpg,/objects/thumbs/150_1_th.jpg
+,dcb150,,,,,,/objects/150_2.JPG,/objects/small/150_2_sm.jpg,/objects/thumbs/150_2_th.jpg
+dcb151,,Indiana beer bottle L. Brames & Co Ft Wayne Ind,no description,record,image/jpg,multiple,,/objects/small/151_1_sm.jpg,/objects/thumbs/151_1_th.jpg
+,dcb151,,,,,,/objects/151_1.JPG,/objects/small/151_1_sm.jpg,/objects/thumbs/151_1_th.jpg
+,dcb151,,,,,,/objects/151_2.JPG,/objects/small/151_2_sm.jpg,/objects/thumbs/151_2_th.jpg
+dcb152,,"Indiana beer bottle L. Brames & Co Ft Wayne Ind,",pint,record,image/jpg,multiple,,/objects/small/152_1_sm.jpg,/objects/thumbs/152_1_th.jpg
+,dcb152,,,,,,/objects/152_1.JPG,/objects/small/152_1_sm.jpg,/objects/thumbs/152_1_th.jpg
+,dcb152,,,,,,/objects/152_2.JPG,/objects/small/152_2_sm.jpg,/objects/thumbs/152_2_th.jpg
+dcb153,,"Indiana beer bottle L. Brames & Co Ft Wayne Ind,",pint,record,image/jpg,multiple,,/objects/small/153_1_sm.jpg,/objects/thumbs/153_1_th.jpg
+,dcb153,,,,,,/objects/153_1.JPG,/objects/small/153_1_sm.jpg,/objects/thumbs/153_1_th.jpg
+,dcb153,,,,,,/objects/153_2.JPG,/objects/small/153_2_sm.jpg,/objects/thumbs/153_2_th.jpg
+dcb154,,"Indiana beer bottle L. Brames & Co Ft Wayne Ind,",pint,record,image/jpg,multiple,,/objects/small/154_1_sm.jpg,/objects/thumbs/154_1_th.jpg
+,dcb154,,,,,,/objects/154_1.JPG,/objects/small/154_1_sm.jpg,/objects/thumbs/154_1_th.jpg
+,dcb154,,,,,,/objects/154_2.JPG,/objects/small/154_2_sm.jpg,/objects/thumbs/154_2_th.jpg
+dcb155,,"Indiana beer bottle L. Brames & Co Ft Wayne Ind,",pony size,record,image/jpg,multiple,,/objects/small/155_1_sm.jpg,/objects/thumbs/155_1_th.jpg
+,dcb155,,,,,,/objects/155_1.JPG,/objects/small/155_1_sm.jpg,/objects/thumbs/155_1_th.jpg
+,dcb155,,,,,,/objects/155_2.JPG,/objects/small/155_2_sm.jpg,/objects/thumbs/155_2_th.jpg
+dcb156,,Indiana beer bottle Muessel South Bend IN,no description,record,image/jpg,multiple,,/objects/small/156_1_sm.jpg,/objects/thumbs/156_1_th.jpg
+,dcb156,,,,,,/objects/156_1.JPG,/objects/small/156_1_sm.jpg,/objects/thumbs/156_1_th.jpg
+,dcb156,,,,,,/objects/156_2.JPG,/objects/small/156_2_sm.jpg,/objects/thumbs/156_2_th.jpg
+dcb157,,Indiana beer bottle Muessel Bros South Bend IN,no description,record,image/jpg,multiple,,/objects/small/157_1_sm.jpg,/objects/thumbs/157_1_th.jpg
+,dcb157,,,,,,/objects/157_1.JPG,/objects/small/157_1_sm.jpg,/objects/thumbs/157_1_th.jpg
+,dcb157,,,,,,/objects/157_2.JPG,/objects/small/157_2_sm.jpg,/objects/thumbs/157_2_th.jpg
+dcb158,,"Indiana beer bottle Riedel & Griestinger,",So Bend Ind,record,image/jpg,multiple,,/objects/small/158_1_sm.jpg,/objects/thumbs/158_1_th.jpg
+,dcb158,,,,,,/objects/158_1.JPG,/objects/small/158_1_sm.jpg,/objects/thumbs/158_1_th.jpg
+,dcb158,,,,,,/objects/158_2.JPG,/objects/small/158_2_sm.jpg,/objects/thumbs/158_2_th.jpg
+dcb159,,"Indiana beer bottle Paul J. Haas Bottler, South","Bend, small chip to collar",record,image/jpg,multiple,,/objects/small/159_1_sm.jpg,/objects/thumbs/159_1_th.jpg
+,dcb159,,,,,,/objects/159_1.JPG,/objects/small/159_1_sm.jpg,/objects/thumbs/159_1_th.jpg
+,dcb159,,,,,,/objects/159_2.JPG,/objects/small/159_2_sm.jpg,/objects/thumbs/159_2_th.jpg
+dcb160,,Indiana beer bottle John Grief South Bend IN,no description,record,image/jpg,multiple,,/objects/small/160_1_sm.jpg,/objects/thumbs/160_1_th.jpg
+,dcb160,,,,,,/objects/160_1.JPG,/objects/small/160_1_sm.jpg,/objects/thumbs/160_1_th.jpg
+,dcb160,,,,,,/objects/160_2.JPG,/objects/small/160_2_sm.jpg,/objects/thumbs/160_2_th.jpg
+dcb161,,Indiana beer bottle Mishawaka Bottling Works,"D.A. Gross, Proprietor, Mishawaka IN",record,image/jpg,multiple,,/objects/small/161_1_sm.jpg,/objects/thumbs/161_1_th.jpg
+,dcb161,,,,,,/objects/161_1.JPG,/objects/small/161_1_sm.jpg,/objects/thumbs/161_1_th.jpg
+,dcb161,,,,,,/objects/161_2.JPG,/objects/small/161_2_sm.jpg,/objects/thumbs/161_2_th.jpg
+dcb162,,Indiana beer bottle J.K. & Son Anderson IN,no description,record,image/jpg,multiple,,/objects/small/162_1_sm.jpg,/objects/thumbs/162_1_th.jpg
+,dcb162,,,,,,/objects/162_1.JPG,/objects/small/162_1_sm.jpg,/objects/thumbs/162_1_th.jpg
+,dcb162,,,,,,/objects/162_2.JPG,/objects/small/162_2_sm.jpg,/objects/thumbs/162_2_th.jpg
+dcb163,,Indiana beer bottle Gustave Haun Ligonier IN,no description,record,image/jpg,multiple,,/objects/small/163_1_sm.jpg,/objects/thumbs/163_1_th.jpg
+,dcb163,,,,,,/objects/163_1.JPG,/objects/small/163_1_sm.jpg,/objects/thumbs/163_1_th.jpg
+,dcb163,,,,,,/objects/163_2.JPG,/objects/small/163_2_sm.jpg,/objects/thumbs/163_2_th.jpg
+dcb164,,Indiana beer bottle George W. Nichols Bottling,Works Berne IN,record,image/jpg,multiple,,/objects/small/164_1_sm.jpg,/objects/thumbs/164_1_th.jpg
+,dcb164,,,,,,/objects/164_1.JPG,/objects/small/164_1_sm.jpg,/objects/thumbs/164_1_th.jpg
+,dcb164,,,,,,/objects/164_2.JPG,/objects/small/164_2_sm.jpg,/objects/thumbs/164_2_th.jpg
+dcb165,,Indiana beer bottle T. M. Norton Brewing Co.,Anderson IN,record,image/jpg,multiple,,/objects/small/165_1_sm.jpg,/objects/thumbs/165_1_th.jpg
+,dcb165,,,,,,/objects/165_1.JPG,/objects/small/165_1_sm.jpg,/objects/thumbs/165_1_th.jpg
+,dcb165,,,,,,/objects/165_2.JPG,/objects/small/165_2_sm.jpg,/objects/thumbs/165_2_th.jpg
+dcb166,,Indiana beer bottle S. Stone & Co. Elkhart IN,no description,record,image/jpg,multiple,,/objects/small/166_1_sm.jpg,/objects/thumbs/166_1_th.jpg
+,dcb166,,,,,,/objects/166_1.JPG,/objects/small/166_1_sm.jpg,/objects/thumbs/166_1_th.jpg
+,dcb166,,,,,,/objects/166_2.JPG,/objects/small/166_2_sm.jpg,/objects/thumbs/166_2_th.jpg
+dcb167,,Indiana beer bottle H.C. Kunkel Michigan City IN,no description,record,image/jpg,multiple,,/objects/small/167_1_sm.jpg,/objects/thumbs/167_1_th.jpg
+,dcb167,,,,,,/objects/167_1.JPG,/objects/small/167_1_sm.jpg,/objects/thumbs/167_1_th.jpg
+,dcb167,,,,,,/objects/167_2.JPG,/objects/small/167_2_sm.jpg,/objects/thumbs/167_2_th.jpg
+dcb168,,"Indiana beer bottle Mishawaka Bottling Works,","D.A. Gross Proprietor, Mishawaka IN",record,image/jpg,multiple,,/objects/small/168_1_sm.jpg,/objects/thumbs/168_1_th.jpg
+,dcb168,,,,,,/objects/168_1.JPG,/objects/small/168_1_sm.jpg,/objects/thumbs/168_1_th.jpg
+,dcb168,,,,,,/objects/168_2.JPG,/objects/small/168_2_sm.jpg,/objects/thumbs/168_2_th.jpg
+dcb169,,Indiana beer bottle C. Bauerlein Riverside,"Bottling Works, Mishawaka IN",record,image/jpg,multiple,,/objects/small/169_1_sm.jpg,/objects/thumbs/169_1_th.jpg
+,dcb169,,,,,,/objects/169_1.JPG,/objects/small/169_1_sm.jpg,/objects/thumbs/169_1_th.jpg
+,dcb169,,,,,,/objects/169_2.JPG,/objects/small/169_2_sm.jpg,/objects/thumbs/169_2_th.jpg
+dcb170,,Indiana beer bottle C.H. Mayer & Co Hammond IN,no description,record,image/jpg,multiple,,/objects/small/170_1_sm.jpg,/objects/thumbs/170_1_th.jpg
+,dcb170,,,,,,/objects/170_1.JPG,/objects/small/170_1_sm.jpg,/objects/thumbs/170_1_th.jpg
+,dcb170,,,,,,/objects/170_2.JPG,/objects/small/170_2_sm.jpg,/objects/thumbs/170_2_th.jpg
+dcb171,,"Indiana beer bottle Huntington Brewing Co,",Huntington IN,record,image/jpg,multiple,,/objects/small/171_1_sm.jpg,/objects/thumbs/171_1_th.jpg
+,dcb171,,,,,,/objects/171_1.JPG,/objects/small/171_1_sm.jpg,/objects/thumbs/171_1_th.jpg
+,dcb171,,,,,,/objects/171_2.JPG,/objects/small/171_2_sm.jpg,/objects/thumbs/171_2_th.jpg
+dcb172,,"Indiana beer bottle J.L. Brown & Co,",Huntington IN,record,image/jpg,multiple,,/objects/small/172_1_sm.jpg,/objects/thumbs/172_1_th.jpg
+,dcb172,,,,,,/objects/172_1.JPG,/objects/small/172_1_sm.jpg,/objects/thumbs/172_1_th.jpg
+,dcb172,,,,,,/objects/172_2.JPG,/objects/small/172_2_sm.jpg,/objects/thumbs/172_2_th.jpg
+dcb173,,"Indiana beer bottle Carl Lang Huntington Brewery,",Huntington IN,record,image/jpg,multiple,,/objects/small/173_1_sm.jpg,/objects/thumbs/173_1_th.jpg
+,dcb173,,,,,,/objects/173_1.JPG,/objects/small/173_1_sm.jpg,/objects/thumbs/173_1_th.jpg
+,dcb173,,,,,,/objects/173_2.JPG,/objects/small/173_2_sm.jpg,/objects/thumbs/173_2_th.jpg
+dcb174,,"Indiana beer bottle Carl Lang Huntington Brewery,",Huntington IN,record,image/jpg,multiple,,/objects/small/174_1_sm.jpg,/objects/thumbs/174_1_th.jpg
+,dcb174,,,,,,/objects/174_1.JPG,/objects/small/174_1_sm.jpg,/objects/thumbs/174_1_th.jpg
+,dcb174,,,,,,/objects/174_2.JPG,/objects/small/174_2_sm.jpg,/objects/thumbs/174_2_th.jpg
+dcb175,,Indiana beer bottle McLin's Kolatona Huntington IN,no description,record,image/jpg,multiple,,/objects/small/175_1_sm.jpg,/objects/thumbs/175_1_th.jpg
+,dcb175,,,,,,/objects/175_1.JPG,/objects/small/175_1_sm.jpg,/objects/thumbs/175_1_th.jpg
+,dcb175,,,,,,/objects/175_2.JPG,/objects/small/175_2_sm.jpg,/objects/thumbs/175_2_th.jpg
+dcb176,,Indiana beer bottle A.M. Smith Elkhart IN,no description,record,image/jpg,multiple,,/objects/small/176_1_sm.jpg,/objects/thumbs/176_1_th.jpg
+,dcb176,,,,,,/objects/176_1.JPG,/objects/small/176_1_sm.jpg,/objects/thumbs/176_1_th.jpg
+,dcb176,,,,,,/objects/176_2.JPG,/objects/small/176_2_sm.jpg,/objects/thumbs/176_2_th.jpg
+dcb177,,"Indiana beer bottle C.H. Mayer & Co Hammond IN,",cracked,record,image/jpg,multiple,,/objects/small/177_1_sm.jpg,/objects/thumbs/177_1_th.jpg
+,dcb177,,,,,,/objects/177_1.JPG,/objects/small/177_1_sm.jpg,/objects/thumbs/177_1_th.jpg
+,dcb177,,,,,,/objects/177_2.JPG,/objects/small/177_2_sm.jpg,/objects/thumbs/177_2_th.jpg
+dcb178,,Indiana beer bottle C.H. Mayer & Co Hammond IN,no description,record,image/jpg,multiple,,/objects/small/178_1_sm.jpg,/objects/thumbs/178_1_th.jpg
+,dcb178,,,,,,/objects/178_1.JPG,/objects/small/178_1_sm.jpg,/objects/thumbs/178_1_th.jpg
+,dcb178,,,,,,/objects/178_2.JPG,/objects/small/178_2_sm.jpg,/objects/thumbs/178_2_th.jpg
+dcb179,,"Indiana beer bottle Alexandria Bottling Works,",Alexandria IN,record,image/jpg,multiple,,/objects/small/179_1_sm.jpg,/objects/thumbs/179_1_th.jpg
+,dcb179,,,,,,/objects/179_1.JPG,/objects/small/179_1_sm.jpg,/objects/thumbs/179_1_th.jpg
+,dcb179,,,,,,/objects/179_2.JPG,/objects/small/179_2_sm.jpg,/objects/thumbs/179_2_th.jpg
+dcb180,,Indiana beer bottle IND BR'G Assn Marion IN,no description,record,image/jpg,multiple,,/objects/small/180_1_sm.jpg,/objects/thumbs/180_1_th.jpg
+,dcb180,,,,,,/objects/180_1.JPG,/objects/small/180_1_sm.jpg,/objects/thumbs/180_1_th.jpg
+,dcb180,,,,,,/objects/180_2.JPG,/objects/small/180_2_sm.jpg,/objects/thumbs/180_2_th.jpg
+dcb181,,"Indiana beer bottle The Minck Brewing Co,",Richmond IN,record,image/jpg,multiple,,/objects/small/181_1_sm.jpg,/objects/thumbs/181_1_th.jpg
+,dcb181,,,,,,/objects/181_1.JPG,/objects/small/181_1_sm.jpg,/objects/thumbs/181_1_th.jpg
+,dcb181,,,,,,/objects/181_2.JPG,/objects/small/181_2_sm.jpg,/objects/thumbs/181_2_th.jpg
+dcb182,,Indiana beer bottle H.P. Taylor Richmond IN,no description,record,image/jpg,multiple,,/objects/small/182_1_sm.jpg,/objects/thumbs/182_1_th.jpg
+,dcb182,,,,,,/objects/182_1.JPG,/objects/small/182_1_sm.jpg,/objects/thumbs/182_1_th.jpg
+,dcb182,,,,,,/objects/182_2.JPG,/objects/small/182_2_sm.jpg,/objects/thumbs/182_2_th.jpg
+dcb183,,Indiana beer bottle Adam H. Kemper Richmond IN,no description,record,image/jpg,multiple,,/objects/small/183_1_sm.jpg,/objects/thumbs/183_1_th.jpg
+,dcb183,,,,,,/objects/183_1.JPG,/objects/small/183_1_sm.jpg,/objects/thumbs/183_1_th.jpg
+,dcb183,,,,,,/objects/183_2.JPG,/objects/small/183_2_sm.jpg,/objects/thumbs/183_2_th.jpg
+dcb184,,Indiana beer bottle The Minck Brewing Co Richmond,IN,record,image/jpg,multiple,,/objects/small/184_1_sm.jpg,/objects/thumbs/184_1_th.jpg
+,dcb184,,,,,,/objects/184_1.JPG,/objects/small/184_1_sm.jpg,/objects/thumbs/184_1_th.jpg
+,dcb184,,,,,,/objects/184_2.JPG,/objects/small/184_2_sm.jpg,/objects/thumbs/184_2_th.jpg
+dcb185,,Indiana beer bottle M.B. Co Madison IN,no description,record,image/jpg,multiple,,/objects/small/185_1_sm.jpg,/objects/thumbs/185_1_th.jpg
+,dcb185,,,,,,/objects/185_1.JPG,/objects/small/185_1_sm.jpg,/objects/thumbs/185_1_th.jpg
+,dcb185,,,,,,/objects/185_2.JPG,/objects/small/185_2_sm.jpg,/objects/thumbs/185_2_th.jpg
+dcb186,,Indiana beer bottle M.B. Co Madison IN,no description,record,image/jpg,multiple,,/objects/small/186_1_sm.jpg,/objects/thumbs/186_1_th.jpg
+,dcb186,,,,,,/objects/186_1.JPG,/objects/small/186_1_sm.jpg,/objects/thumbs/186_1_th.jpg
+,dcb186,,,,,,/objects/186_2.JPG,/objects/small/186_2_sm.jpg,/objects/thumbs/186_2_th.jpg
+dcb187,,"Indiana beer bottle Alexandria Bottling Works,",Alexandria IN,record,image/jpg,multiple,,/objects/small/187_1_sm.jpg,/objects/thumbs/187_1_th.jpg
+,dcb187,,,,,,/objects/187_1.JPG,/objects/small/187_1_sm.jpg,/objects/thumbs/187_1_th.jpg
+,dcb187,,,,,,/objects/187_2.JPG,/objects/small/187_2_sm.jpg,/objects/thumbs/187_2_th.jpg
+dcb188,,Indiana beer bottle A. Reed & Co Peru IN,no description,record,image/jpg,multiple,,/objects/small/188_1_sm.jpg,/objects/thumbs/188_1_th.jpg
+,dcb188,,,,,,/objects/188_1.JPG,/objects/small/188_1_sm.jpg,/objects/thumbs/188_1_th.jpg
+,dcb188,,,,,,/objects/188_2.JPG,/objects/small/188_2_sm.jpg,/objects/thumbs/188_2_th.jpg
+dcb189,,Indiana beer bottle Peru  Brewery Peru IN,no description,record,image/jpg,multiple,,/objects/small/189_1_sm.jpg,/objects/thumbs/189_1_th.jpg
+,dcb189,,,,,,/objects/189_1.JPG,/objects/small/189_1_sm.jpg,/objects/thumbs/189_1_th.jpg
+,dcb189,,,,,,/objects/189_2.JPG,/objects/small/189_2_sm.jpg,/objects/thumbs/189_2_th.jpg
+dcb190,,Indiana beer bottle J.O. Cole Peru IN,no description,record,image/jpg,multiple,,/objects/small/190_1_sm.jpg,/objects/thumbs/190_1_th.jpg
+,dcb190,,,,,,/objects/190_1.JPG,/objects/small/190_1_sm.jpg,/objects/thumbs/190_1_th.jpg
+,dcb190,,,,,,/objects/190_2.JPG,/objects/small/190_2_sm.jpg,/objects/thumbs/190_2_th.jpg
+dcb191,,Indiana beer bottle J.O. Cole Peru IN,no description,record,image/jpg,multiple,,/objects/small/191_1_sm.jpg,/objects/thumbs/191_1_th.jpg
+,dcb191,,,,,,/objects/191_1.JPG,/objects/small/191_1_sm.jpg,/objects/thumbs/191_1_th.jpg
+,dcb191,,,,,,/objects/191_2.JPG,/objects/small/191_2_sm.jpg,/objects/thumbs/191_2_th.jpg
+dcb192,,Indiana beer bottle Peru Brewery Peru IN,no description,record,image/jpg,multiple,,/objects/small/192_1_sm.jpg,/objects/thumbs/192_1_th.jpg
+,dcb192,,,,,,/objects/192_1.JPG,/objects/small/192_1_sm.jpg,/objects/thumbs/192_1_th.jpg
+,dcb192,,,,,,/objects/192_2.JPG,/objects/small/192_2_sm.jpg,/objects/thumbs/192_2_th.jpg
+dcb193,,Indiana beer bottle Peru Brewery Peru IN,no description,record,image/jpg,multiple,,/objects/small/193_1_sm.jpg,/objects/thumbs/193_1_th.jpg
+,dcb193,,,,,,/objects/193_1.JPG,/objects/small/193_1_sm.jpg,/objects/thumbs/193_1_th.jpg
+,dcb193,,,,,,/objects/193_2.JPG,/objects/small/193_2_sm.jpg,/objects/thumbs/193_2_th.jpg
+dcb194,,Indiana beer bottle Centlivre large display bottle,"Fort Wayne, 20""",record,image/jpg,multiple,,/objects/small/194_1_sm.jpg,/objects/thumbs/194_1_th.jpg
+,dcb194,,,,,,/objects/194_1.JPG,/objects/small/194_1_sm.jpg,/objects/thumbs/194_1_th.jpg
+,dcb194,,,,,,/objects/194_2.JPG,/objects/small/194_2_sm.jpg,/objects/thumbs/194_2_th.jpg
+dcb195,,Indiana beer bottle K & C Indianapolis Bottling,Works,record,image/jpg,multiple,,/objects/small/195_1_sm.jpg,/objects/thumbs/195_1_th.jpg
+,dcb195,,,,,,/objects/195_1.JPG,/objects/small/195_1_sm.jpg,/objects/thumbs/195_1_th.jpg
+,dcb195,,,,,,/objects/195_2.JPG,/objects/small/195_2_sm.jpg,/objects/thumbs/195_2_th.jpg
+dcb196,,Indiana beer bottle Jac. Metzger & Co Indianapolis,no description,record,image/jpg,multiple,,/objects/small/196_1_sm.jpg,/objects/thumbs/196_1_th.jpg
+,dcb196,,,,,,/objects/196_1.JPG,/objects/small/196_1_sm.jpg,/objects/thumbs/196_1_th.jpg
+,dcb196,,,,,,/objects/196_2.JPG,/objects/small/196_2_sm.jpg,/objects/thumbs/196_2_th.jpg
+dcb197,,Indiana beer bottle Indianapolis Brewing Co,Indianapolis IN,record,image/jpg,multiple,,/objects/small/197_1_sm.jpg,/objects/thumbs/197_1_th.jpg
+,dcb197,,,,,,/objects/197_1.JPG,/objects/small/197_1_sm.jpg,/objects/thumbs/197_1_th.jpg
+,dcb197,,,,,,/objects/197_2.JPG,/objects/small/197_2_sm.jpg,/objects/thumbs/197_2_th.jpg
+dcb198,,Indiana beer bottle Jacob Metzger & Co,Indianapolis IN,record,image/jpg,multiple,,/objects/small/198_1_sm.jpg,/objects/thumbs/198_1_th.jpg
+,dcb198,,,,,,/objects/198_1.JPG,/objects/small/198_1_sm.jpg,/objects/thumbs/198_1_th.jpg
+,dcb198,,,,,,/objects/198_2.JPG,/objects/small/198_2_sm.jpg,/objects/thumbs/198_2_th.jpg
+dcb199,,Indiana beer bottle Indianapolis Brewing Co,Indianapolis IN,record,image/jpg,multiple,,/objects/small/199_1_sm.jpg,/objects/thumbs/199_1_th.jpg
+,dcb199,,,,,,/objects/199_1.JPG,/objects/small/199_1_sm.jpg,/objects/thumbs/199_1_th.jpg
+,dcb199,,,,,,/objects/199_2.JPG,/objects/small/199_2_sm.jpg,/objects/thumbs/199_2_th.jpg
+dcb200,,"Indiana beer bottle Chas Graf Berliner Weiss Beer,",Terre Haute IN,record,image/jpg,multiple,,/objects/small/200_1_sm.jpg,/objects/thumbs/200_1_th.jpg
+,dcb200,,,,,,/objects/200_1.JPG,/objects/small/200_1_sm.jpg,/objects/thumbs/200_1_th.jpg
+,dcb200,,,,,,/objects/200_2.JPG,/objects/small/200_2_sm.jpg,/objects/thumbs/200_2_th.jpg
+dcb201,,"Indiana beer bottle The Walter Raupfer Brewing,",Columbia City IN,record,image/jpg,multiple,,/objects/small/201_1_sm.jpg,/objects/thumbs/201_1_th.jpg
+,dcb201,,,,,,/objects/201_1.JPG,/objects/small/201_1_sm.jpg,/objects/thumbs/201_1_th.jpg
+,dcb201,,,,,,/objects/201_2.JPG,/objects/small/201_2_sm.jpg,/objects/thumbs/201_2_th.jpg
+dcb202,,"Indiana beer bottle The Walter Raupfer Brewing,",Columbia City IN,record,image/jpg,multiple,,/objects/small/202_1_sm.jpg,/objects/thumbs/202_1_th.jpg
+,dcb202,,,,,,/objects/202_1.JPG,/objects/small/202_1_sm.jpg,/objects/thumbs/202_1_th.jpg
+,dcb202,,,,,,/objects/202_2.JPG,/objects/small/202_2_sm.jpg,/objects/thumbs/202_2_th.jpg
+dcb203,,"Indiana beer bottle The Walter Raupfer Brewing,",Columbia City IN,record,image/jpg,multiple,,/objects/small/203_1_sm.jpg,/objects/thumbs/203_1_th.jpg
+,dcb203,,,,,,/objects/203_1.JPG,/objects/small/203_1_sm.jpg,/objects/thumbs/203_1_th.jpg
+,dcb203,,,,,,/objects/203_2.JPG,/objects/small/203_2_sm.jpg,/objects/thumbs/203_2_th.jpg
+dcb204,,Indiana beer bottle Milwaukee Bottling Co,Indianapolis IN,record,image/jpg,multiple,,/objects/small/204_1_sm.jpg,/objects/thumbs/204_1_th.jpg
+,dcb204,,,,,,/objects/204_1.JPG,/objects/small/204_1_sm.jpg,/objects/thumbs/204_1_th.jpg
+,dcb204,,,,,,/objects/204_2.JPG,/objects/small/204_2_sm.jpg,/objects/thumbs/204_2_th.jpg
+dcb205,,"Indiana beer bottle The C. Habich Co Bottlers,",Indianapolis IN,record,image/jpg,multiple,,/objects/small/205_1_sm.jpg,/objects/thumbs/205_1_th.jpg
+,dcb205,,,,,,/objects/205_1.JPG,/objects/small/205_1_sm.jpg,/objects/thumbs/205_1_th.jpg
+,dcb205,,,,,,/objects/205_2.JPG,/objects/small/205_2_sm.jpg,/objects/thumbs/205_2_th.jpg
+dcb206,,Indiana beer bottle H.E. Schultz LaPorte IN,no description,record,image/jpg,multiple,,/objects/small/206_1_sm.jpg,/objects/thumbs/206_1_th.jpg
+,dcb206,,,,,,/objects/206_1.JPG,/objects/small/206_1_sm.jpg,/objects/thumbs/206_1_th.jpg
+,dcb206,,,,,,/objects/206_2.JPG,/objects/small/206_2_sm.jpg,/objects/thumbs/206_2_th.jpg
+dcb207,,Indiana beer bottle Chas. H. Mayer & Co Hammond IN,no description,record,image/jpg,multiple,,/objects/small/207_1_sm.jpg,/objects/thumbs/207_1_th.jpg
+,dcb207,,,,,,/objects/207_1.JPG,/objects/small/207_1_sm.jpg,/objects/thumbs/207_1_th.jpg
+,dcb207,,,,,,/objects/207_2.JPG,/objects/small/207_2_sm.jpg,/objects/thumbs/207_2_th.jpg
+dcb208,,"Indiana beer bottle Heimbach's Bottling Works,",Hammond IN,record,image/jpg,multiple,,/objects/small/208_1_sm.jpg,/objects/thumbs/208_1_th.jpg
+,dcb208,,,,,,/objects/208_1.JPG,/objects/small/208_1_sm.jpg,/objects/thumbs/208_1_th.jpg
+,dcb208,,,,,,/objects/208_2.JPG,/objects/small/208_2_sm.jpg,/objects/thumbs/208_2_th.jpg
+dcb209,,Indiana beer bottle The Walter Raupfer Brewery,Columbia City IN,record,image/jpg,multiple,,/objects/small/209_1_sm.jpg,/objects/thumbs/209_1_th.jpg
+,dcb209,,,,,,/objects/209_1.JPG,/objects/small/209_1_sm.jpg,/objects/thumbs/209_1_th.jpg
+,dcb209,,,,,,/objects/209_2.JPG,/objects/small/209_2_sm.jpg,/objects/thumbs/209_2_th.jpg
+dcb210,,Indiana beer bottle A. Walder Ligonier IN,no description,record,image/jpg,multiple,,/objects/small/210_1_sm.jpg,/objects/thumbs/210_1_th.jpg
+,dcb210,,,,,,/objects/210_1.JPG,/objects/small/210_1_sm.jpg,/objects/thumbs/210_1_th.jpg
+,dcb210,,,,,,/objects/210_2.JPG,/objects/small/210_2_sm.jpg,/objects/thumbs/210_2_th.jpg
+dcb211,,Indiana beer bottle A. Walder Ligonier IN,no description,record,image/jpg,multiple,,/objects/small/211_1_sm.jpg,/objects/thumbs/211_1_th.jpg
+,dcb211,,,,,,/objects/211_1.JPG,/objects/small/211_1_sm.jpg,/objects/thumbs/211_1_th.jpg
+,dcb211,,,,,,/objects/211_2.JPG,/objects/small/211_2_sm.jpg,/objects/thumbs/211_2_th.jpg
+dcb212,,"Ohio beer bottle The J. Walker Brewing Co,",Cincinnati OH,record,image/jpg,multiple,,/objects/small/212_1_sm.jpg,/objects/thumbs/212_1_th.jpg
+,dcb212,,,,,,/objects/212_1.JPG,/objects/small/212_1_sm.jpg,/objects/thumbs/212_1_th.jpg
+,dcb212,,,,,,/objects/212_2.JPG,/objects/small/212_2_sm.jpg,/objects/thumbs/212_2_th.jpg
+dcb213,,"Indiana beer bottle C.H. Mayer & Co Hammond IN,",nick to top,record,image/jpg,multiple,,/objects/small/213_1_sm.jpg,/objects/thumbs/213_1_th.jpg
+,dcb213,,,,,,/objects/213_1.JPG,/objects/small/213_1_sm.jpg,/objects/thumbs/213_1_th.jpg
+,dcb213,,,,,,/objects/213_2.JPG,/objects/small/213_2_sm.jpg,/objects/thumbs/213_2_th.jpg
+dcb214,,Indiana soda bottle A.R. Peru Ind,no description,record,image/jpg,multiple,,/objects/small/214_1_sm.jpg,/objects/thumbs/214_1_th.jpg
+,dcb214,,,,,,/objects/214_1.JPG,/objects/small/214_1_sm.jpg,/objects/thumbs/214_1_th.jpg
+,dcb214,,,,,,/objects/214_2.JPG,/objects/small/214_2_sm.jpg,/objects/thumbs/214_2_th.jpg
+dcb215,,Indiana beer bottle The Howell Bottling Co,Lafayette IN,record,image/jpg,multiple,,/objects/small/215_1_sm.jpg,/objects/thumbs/215_1_th.jpg
+,dcb215,,,,,,/objects/215_1.JPG,/objects/small/215_1_sm.jpg,/objects/thumbs/215_1_th.jpg
+,dcb215,,,,,,/objects/215_2.JPG,/objects/small/215_2_sm.jpg,/objects/thumbs/215_2_th.jpg
+dcb216,,Indiana beer bottle John Reis Star City Bottling,Works Lafayette IN,record,image/jpg,multiple,,/objects/small/216_1_sm.jpg,/objects/thumbs/216_1_th.jpg
+,dcb216,,,,,,/objects/216_1.JPG,/objects/small/216_1_sm.jpg,/objects/thumbs/216_1_th.jpg
+,dcb216,,,,,,/objects/216_2.JPG,/objects/small/216_2_sm.jpg,/objects/thumbs/216_2_th.jpg
+dcb217,,"Indiana beer bottle Tengen & Thieme,",Lafayette IN,record,image/jpg,multiple,,/objects/small/217_1_sm.jpg,/objects/thumbs/217_1_th.jpg
+,dcb217,,,,,,/objects/217_1.JPG,/objects/small/217_1_sm.jpg,/objects/thumbs/217_1_th.jpg
+,dcb217,,,,,,/objects/217_2.JPG,/objects/small/217_2_sm.jpg,/objects/thumbs/217_2_th.jpg
+dcb218,,"Indiana beer bottle Noll & Schneider Bottlers,",Lafayette IN,record,image/jpg,multiple,,/objects/small/218_1_sm.jpg,/objects/thumbs/218_1_th.jpg
+,dcb218,,,,,,/objects/218_1.JPG,/objects/small/218_1_sm.jpg,/objects/thumbs/218_1_th.jpg
+,dcb218,,,,,,/objects/218_2.JPG,/objects/small/218_2_sm.jpg,/objects/thumbs/218_2_th.jpg
+dcb219,,Indiana beer bottle John Reis Star City Bottling,Works Lafayette IN,record,image/jpg,multiple,,/objects/small/219_1_sm.jpg,/objects/thumbs/219_1_th.jpg
+,dcb219,,,,,,/objects/219_1.JPG,/objects/small/219_1_sm.jpg,/objects/thumbs/219_1_th.jpg
+,dcb219,,,,,,/objects/219_2.JPG,/objects/small/219_2_sm.jpg,/objects/thumbs/219_2_th.jpg
+dcb220,,Indiana beer bottle Howells Bottling Works Co,Lafayette IN,record,image/jpg,multiple,,/objects/small/220_1_sm.jpg,/objects/thumbs/220_1_th.jpg
+,dcb220,,,,,,/objects/220_1.JPG,/objects/small/220_1_sm.jpg,/objects/thumbs/220_1_th.jpg
+,dcb220,,,,,,/objects/220_2.JPG,/objects/small/220_2_sm.jpg,/objects/thumbs/220_2_th.jpg
+dcb221,,Indiana beer bottle M.B. Co Madison Ind,no description,record,image/jpg,multiple,,/objects/small/221_1_sm.jpg,/objects/thumbs/221_1_th.jpg
+,dcb221,,,,,,/objects/221_1.JPG,/objects/small/221_1_sm.jpg,/objects/thumbs/221_1_th.jpg
+,dcb221,,,,,,/objects/221_2.JPG,/objects/small/221_2_sm.jpg,/objects/thumbs/221_2_th.jpg
+dcb222,,"Indiana beer bottle Columbia Brewing Co,",Logansport IN,record,image/jpg,multiple,,/objects/small/222_1_sm.jpg,/objects/thumbs/222_1_th.jpg
+,dcb222,,,,,,/objects/222_1.JPG,/objects/small/222_1_sm.jpg,/objects/thumbs/222_1_th.jpg
+,dcb222,,,,,,/objects/222_2.JPG,/objects/small/222_2_sm.jpg,/objects/thumbs/222_2_th.jpg
+dcb223,,Indiana beer bottle Tengen & Thieme Lafayette IN,no description,record,image/jpg,multiple,,/objects/small/223_1_sm.jpg,/objects/thumbs/223_1_th.jpg
+,dcb223,,,,,,/objects/223_1.JPG,/objects/small/223_1_sm.jpg,/objects/thumbs/223_1_th.jpg
+,dcb223,,,,,,/objects/223_2.JPG,/objects/small/223_2_sm.jpg,/objects/thumbs/223_2_th.jpg
+dcb224,,"Indiana beer bottle Columbia Brewing Co,",Logansport IN,record,image/jpg,multiple,,/objects/small/224_1_sm.jpg,/objects/thumbs/224_1_th.jpg
+,dcb224,,,,,,/objects/224_1.JPG,/objects/small/224_1_sm.jpg,/objects/thumbs/224_1_th.jpg
+,dcb224,,,,,,/objects/224_2.JPG,/objects/small/224_2_sm.jpg,/objects/thumbs/224_2_th.jpg
+dcb225,,Penn. beer bottle The Reiners Co Huntingdon PA,no description,record,image/jpg,multiple,,/objects/small/225_1_sm.jpg,/objects/thumbs/225_1_th.jpg
+,dcb225,,,,,,/objects/225_1.JPG,/objects/small/225_1_sm.jpg,/objects/thumbs/225_1_th.jpg
+,dcb225,,,,,,/objects/225_2.JPG,/objects/small/225_2_sm.jpg,/objects/thumbs/225_2_th.jpg
+dcb226,,Indiana beer bottle The Howell Bottling Co,Lafayette IN,record,image/jpg,multiple,,/objects/small/226_1_sm.jpg,/objects/thumbs/226_1_th.jpg
+,dcb226,,,,,,/objects/226_1.JPG,/objects/small/226_1_sm.jpg,/objects/thumbs/226_1_th.jpg
+,dcb226,,,,,,/objects/226_2.JPG,/objects/small/226_2_sm.jpg,/objects/thumbs/226_2_th.jpg
+dcb227,,"Indiana beer bottle T.M. Norton Brewing Co,",Anderson IN,record,image/jpg,multiple,,/objects/small/227_1_sm.jpg,/objects/thumbs/227_1_th.jpg
+,dcb227,,,,,,/objects/227_1.JPG,/objects/small/227_1_sm.jpg,/objects/thumbs/227_1_th.jpg
+,dcb227,,,,,,/objects/227_2.JPG,/objects/small/227_2_sm.jpg,/objects/thumbs/227_2_th.jpg
+dcb228,,"Indiana beer bottle Ben Overesch Bottler,",Lafayette IN,record,image/jpg,multiple,,/objects/small/228_1_sm.jpg,/objects/thumbs/228_1_th.jpg
+,dcb228,,,,,,/objects/228_1.JPG,/objects/small/228_1_sm.jpg,/objects/thumbs/228_1_th.jpg
+,dcb228,,,,,,/objects/228_2.JPG,/objects/small/228_2_sm.jpg,/objects/thumbs/228_2_th.jpg
+dcb229,,"Indiana cobalt apothecary bottle, Oil British,","Fort Wayne Drug Company, with labels",record,image/jpg,multiple,,/objects/small/229_1_sm.jpg,/objects/thumbs/229_1_th.jpg
+,dcb229,,,,,,/objects/229_1.JPG,/objects/small/229_1_sm.jpg,/objects/thumbs/229_1_th.jpg
+,dcb229,,,,,,/objects/229_2.JPG,/objects/small/229_2_sm.jpg,/objects/thumbs/229_2_th.jpg
+dcb230,,"Indiana bottle Freese & Gale, Fort Wayne IN",no description,record,image/jpg,multiple,,/objects/small/230_1_sm.jpg,/objects/thumbs/230_1_th.jpg
+,dcb230,,,,,,/objects/230_1.JPG,/objects/small/230_1_sm.jpg,/objects/thumbs/230_1_th.jpg
+,dcb230,,,,,,/objects/230_2.JPG,/objects/small/230_2_sm.jpg,/objects/thumbs/230_2_th.jpg
+dcb231,,"Indiana bottle Freese & Gale, Fort Wayne IN,",nick to stopper,record,image/jpg,multiple,,/objects/small/231_1_sm.jpg,/objects/thumbs/231_1_th.jpg
+,dcb231,,,,,,/objects/231_1.JPG,/objects/small/231_1_sm.jpg,/objects/thumbs/231_1_th.jpg
+,dcb231,,,,,,/objects/231_2.JPG,/objects/small/231_2_sm.jpg,/objects/thumbs/231_2_th.jpg
+dcb232,,"Indiana whiskey bottle Billiken, Fort Wayne",Drug Company,record,image/jpg,multiple,,/objects/small/232_1_sm.jpg,/objects/thumbs/232_1_th.jpg
+,dcb232,,,,,,/objects/232_1.JPG,/objects/small/232_1_sm.jpg,/objects/thumbs/232_1_th.jpg
+,dcb232,,,,,,/objects/232_2.JPG,/objects/small/232_2_sm.jpg,/objects/thumbs/232_2_th.jpg
+dcb233,,Quart milk bottle Fort Wayne Dairy Co,no description,record,image/jpg,multiple,,/objects/small/233_1_sm.jpg,/objects/thumbs/233_1_th.jpg
+,dcb233,,,,,,/objects/233_1.JPG,/objects/small/233_1_sm.jpg,/objects/thumbs/233_1_th.jpg
+,dcb233,,,,,,/objects/233_2.JPG,/objects/small/233_2_sm.jpg,/objects/thumbs/233_2_th.jpg
+dcb234,,Pint milk bottle Fort Wayne Dairy Co,no description,record,image/jpg,multiple,,/objects/small/234_1_sm.jpg,/objects/thumbs/234_1_th.jpg
+,dcb234,,,,,,/objects/234_1.JPG,/objects/small/234_1_sm.jpg,/objects/thumbs/234_1_th.jpg
+,dcb234,,,,,,/objects/234_2.JPG,/objects/small/234_2_sm.jpg,/objects/thumbs/234_2_th.jpg
+dcb235,,Indiana medicine bottle W.M. Griffin Fort Wayne,no description,record,image/jpg,multiple,,/objects/small/235_1_sm.jpg,/objects/thumbs/235_1_th.jpg
+,dcb235,,,,,,/objects/235_1.JPG,/objects/small/235_1_sm.jpg,/objects/thumbs/235_1_th.jpg
+,dcb235,,,,,,/objects/235_2.JPG,/objects/small/235_2_sm.jpg,/objects/thumbs/235_2_th.jpg
+dcb236,,"Indiana medicine bottle Dr. J.A. Drake, one from",Fort Wayne and one from Lagrange IN,Image;StillImage,image/jpg,image,/objects/236.JPG,/objects/small/236_sm.JPG,/objects/thumbs/236_th.JPG
+dcb237,,Wishart's Pine Tree Tar cordial bottle,no description,record,image/jpg,multiple,,/objects/small/237_1_sm.jpg,/objects/thumbs/237_1_th.jpg
+,dcb237,,,,,,/objects/237_1.JPG,/objects/small/237_1_sm.jpg,/objects/thumbs/237_1_th.jpg
+,dcb237,,,,,,/objects/237_2.JPG,/objects/small/237_2_sm.jpg,/objects/thumbs/237_2_th.jpg
+dcb238,,Warner's Safe Kidney & Liver Cure bottle,no description,record,image/jpg,multiple,,/objects/small/238_1_sm.jpg,/objects/thumbs/238_1_th.jpg
+,dcb238,,,,,,/objects/238_1.JPG,/objects/small/238_1_sm.jpg,/objects/thumbs/238_1_th.jpg
+,dcb238,,,,,,/objects/238_2.JPG,/objects/small/238_2_sm.jpg,/objects/thumbs/238_2_th.jpg
+dcb239,,"Amber ribbed flask, nick to base rim",,Image;StillImage,image/jpg,image,/objects/239.JPG,/objects/small/239_sm.JPG,/objects/thumbs/239_th.JPG
+dcb240,,Lot of 4 amber flasks,,Image;StillImage,image/jpg,image,/objects/240.JPG,/objects/small/240_sm.JPG,/objects/thumbs/240_th.JPG
+dcb241,,Schenck's Pulmonic Syrup bottle Philadelphia,,Image;StillImage,image/jpg,image,/objects/241.JPG,/objects/small/241_sm.JPG,/objects/thumbs/241_th.JPG
+dcb242,,Udolpho Wolfe Scheidam Aromatic Schnapps bottle,,Image;StillImage,image/jpg,image,/objects/242.JPG,/objects/small/242_sm.JPG,/objects/thumbs/242_th.JPG
+dcb243,,Paine's Celery Compound bottle,,Image;StillImage,image/jpg,image,/objects/243.JPG,/objects/small/243_sm.JPG,/objects/thumbs/243_th.JPG
+dcb244,,"Reed and Carnrick Pharmacists, New York bottle",no description,record,image/jpg,multiple,,/objects/small/244_1_sm.jpg,/objects/thumbs/244_1_th.jpg
+,dcb244,,,,,,/objects/244_1.JPG,/objects/small/244_1_sm.jpg,/objects/thumbs/244_1_th.jpg
+,dcb244,,,,,,/objects/244_2.JPG,/objects/small/244_2_sm.jpg,/objects/thumbs/244_2_th.jpg
+dcb245,,Lot of 4 bottles: Hay's Hair Health; The Maltine,"Mfg Co Chemists, New York; Atwood's Jaundice  Bitters; Hall's Catarrh Cure",Image;StillImage,image/jpg,image,/objects/245.JPG,/objects/small/245_sm.JPG,/objects/thumbs/245_th.JPG
+dcb246,,"Indiana beer bottle lot of 5, Berghoff with paper",labels,Image;StillImage,image/jpg,image,/objects/246.JPG,/objects/small/246_sm.JPG,/objects/thumbs/246_th.JPG
+dcb247,,Indiana beer bottle lot of 3 - Old Crown with,labels,Image;StillImage,image/jpg,image,/objects/247.JPG,/objects/small/247_sm.JPG,/objects/thumbs/247_th.JPG
+dcb248,,"Indiana beer bottle lot of 6 assorted Berghoff,",Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/248.JPG,/objects/small/248_sm.JPG,/objects/thumbs/248_th.JPG
+dcb249,,"Indiana beer bottle lot of 6 assorted Berghoff,",Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/249.JPG,/objects/small/249_sm.JPG,/objects/thumbs/249_th.JPG
+dcb250,,"Indiana beer bottle lot of 6 assorted Berghoff,",Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/250.JPG,/objects/small/250_sm.JPG,/objects/thumbs/250_th.JPG
+dcb251,,"Indiana beer bottle lot of 6 assorted Berghoff,",Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/251.JPG,/objects/small/251_sm.JPG,/objects/thumbs/251_th.JPG
+dcb252,,Indiana beer bottle lot of 5 L. Brames & Co,Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/252.JPG,/objects/small/252_sm.JPG,/objects/thumbs/252_th.JPG
+dcb253,,Indiana beer bottle lot of 5 L. Brames & Co,Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/253.JPG,/objects/small/253_sm.JPG,/objects/thumbs/253_th.JPG
+dcb254,,Indiana beer bottle lot of 5 L. Brames & Co,Fort Wayne IN,Image;StillImage,image/jpg,image,/objects/254.JPG,/objects/small/254_sm.JPG,/objects/thumbs/254_th.JPG
+dcb255,,Indiana beer bottle lot of 5 Indianapolis Brewing,Co,Image;StillImage,image/jpg,image,/objects/255.JPG,/objects/small/255_sm.JPG,/objects/thumbs/255_th.JPG
+dcb256,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/256_1_sm.jpg,/objects/thumbs/256_1_th.jpg
+,dcb256,,,,,,/objects/256_1.JPG,/objects/small/256_1_sm.jpg,/objects/thumbs/256_1_th.jpg
+,dcb256,,,,,,/objects/256_2.JPG,/objects/small/256_2_sm.jpg,/objects/thumbs/256_2_th.jpg
+dcb257,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/257_1_sm.jpg,/objects/thumbs/257_1_th.jpg
+,dcb257,,,,,,/objects/257_1.JPG,/objects/small/257_1_sm.jpg,/objects/thumbs/257_1_th.jpg
+,dcb257,,,,,,/objects/257_2.JPG,/objects/small/257_2_sm.jpg,/objects/thumbs/257_2_th.jpg
+dcb258,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/258_1_sm.jpg,/objects/thumbs/258_1_th.jpg
+,dcb258,,,,,,/objects/258_1.JPG,/objects/small/258_1_sm.jpg,/objects/thumbs/258_1_th.jpg
+,dcb258,,,,,,/objects/258_2.JPG,/objects/small/258_2_sm.jpg,/objects/thumbs/258_2_th.jpg
+dcb259,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/259_1_sm.jpg,/objects/thumbs/259_1_th.jpg
+,dcb259,,,,,,/objects/259_1.JPG,/objects/small/259_1_sm.jpg,/objects/thumbs/259_1_th.jpg
+,dcb259,,,,,,/objects/259_2.JPG,/objects/small/259_2_sm.jpg,/objects/thumbs/259_2_th.jpg
+dcb260,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/260_1_sm.jpg,/objects/thumbs/260_1_th.jpg
+,dcb260,,,,,,/objects/260_1.JPG,/objects/small/260_1_sm.jpg,/objects/thumbs/260_1_th.jpg
+,dcb260,,,,,,/objects/260_2.JPG,/objects/small/260_2_sm.jpg,/objects/thumbs/260_2_th.jpg
+dcb261,,Indiana beer bottle The Home Brewing Co,Indianapolis,record,image/jpg,multiple,,/objects/small/261_1_sm.jpg,/objects/thumbs/261_1_th.jpg
+,dcb261,,,,,,/objects/261_1.JPG,/objects/small/261_1_sm.jpg,/objects/thumbs/261_1_th.jpg
+,dcb261,,,,,,/objects/261_2.JPG,/objects/small/261_2_sm.jpg,/objects/thumbs/261_2_th.jpg
+dcb262,,Indiana beer bottle Indianapolis Brewing Co,no description,record,image/jpg,multiple,,/objects/small/262_1_sm.jpg,/objects/thumbs/262_1_th.jpg
+,dcb262,,,,,,/objects/262_1.JPG,/objects/small/262_1_sm.jpg,/objects/thumbs/262_1_th.jpg
+,dcb262,,,,,,/objects/262_2.JPG,/objects/small/262_2_sm.jpg,/objects/thumbs/262_2_th.jpg
+dcb263,,Indiana beer bottle Indianapolis Brewing Co,no description,record,image/jpg,multiple,,/objects/small/263_1_sm.jpg,/objects/thumbs/263_1_th.jpg
+,dcb263,,,,,,/objects/263_1.JPG,/objects/small/263_1_sm.jpg,/objects/thumbs/263_1_th.jpg
+,dcb263,,,,,,/objects/263_2.JPG,/objects/small/263_2_sm.jpg,/objects/thumbs/263_2_th.jpg
+dcb264,,Indiana beer bottle K&C Indianapolis Bottling,Works,record,image/jpg,multiple,,/objects/small/264_1_sm.jpg,/objects/thumbs/264_1_th.jpg
+,dcb264,,,,,,/objects/264_1.JPG,/objects/small/264_1_sm.jpg,/objects/thumbs/264_1_th.jpg
+,dcb264,,,,,,/objects/264_2.JPG,/objects/small/264_2_sm.jpg,/objects/thumbs/264_2_th.jpg
+dcb265,,"Indiana beer bottle The C. Habich Co Bottlers,","Indianapolis, lot of 2",record,image/jpg,multiple,,/objects/small/265_1_sm.jpg,/objects/thumbs/265_1_th.jpg
+,dcb265,,,,,,/objects/265_1.JPG,/objects/small/265_1_sm.jpg,/objects/thumbs/265_1_th.jpg
+,dcb265,,,,,,/objects/265_2.JPG,/objects/small/265_2_sm.jpg,/objects/thumbs/265_2_th.jpg
+dcb266,,Indiana beer bottle Indiana Brewing Assn.,Marion IN,record,image/jpg,multiple,,/objects/small/266_1_sm.jpg,/objects/thumbs/266_1_th.jpg
+,dcb266,,,,,,/objects/266_1.JPG,/objects/small/266_1_sm.jpg,/objects/thumbs/266_1_th.jpg
+,dcb266,,,,,,/objects/266_2.JPG,/objects/small/266_2_sm.jpg,/objects/thumbs/266_2_th.jpg
+dcb267,,Indiana beer bottle Indiana Brewing Assn.,Marion IN,record,image/jpg,multiple,,/objects/small/267_1_sm.jpg,/objects/thumbs/267_1_th.jpg
+,dcb267,,,,,,/objects/267_1.JPG,/objects/small/267_1_sm.jpg,/objects/thumbs/267_1_th.jpg
+,dcb267,,,,,,/objects/267_2.JPG,/objects/small/267_2_sm.jpg,/objects/thumbs/267_2_th.jpg
+dcb268,,Indiana beer bottle Peru Brewery Peru IN,no description,record,image/jpg,multiple,,/objects/small/268_1_sm.jpg,/objects/thumbs/268_1_th.jpg
+,dcb268,,,,,,/objects/268_1.JPG,/objects/small/268_1_sm.jpg,/objects/thumbs/268_1_th.jpg
+,dcb268,,,,,,/objects/268_2.JPG,/objects/small/268_2_sm.jpg,/objects/thumbs/268_2_th.jpg
+dcb269,,"Indiana beer bottle Terre Haute Brewing Co,",Terre Haute IN,record,image/jpg,multiple,,/objects/small/269_1_sm.jpg,/objects/thumbs/269_1_th.jpg
+,dcb269,,,,,,/objects/269_1.JPG,/objects/small/269_1_sm.jpg,/objects/thumbs/269_1_th.jpg
+,dcb269,,,,,,/objects/269_2.JPG,/objects/small/269_2_sm.jpg,/objects/thumbs/269_2_th.jpg
+dcb270,,Indiana beer bottle Huntington Brewing Co,Huntington IN,record,image/jpg,multiple,,/objects/small/270_1_sm.jpg,/objects/thumbs/270_1_th.jpg
+,dcb270,,,,,,/objects/270_1.JPG,/objects/small/270_1_sm.jpg,/objects/thumbs/270_1_th.jpg
+,dcb270,,,,,,/objects/270_2.JPG,/objects/small/270_2_sm.jpg,/objects/thumbs/270_2_th.jpg
+dcb271,,Indiana beer bottle Minck Brewing Co Richmond IN,no description,record,image/jpg,multiple,,/objects/small/271_1_sm.jpg,/objects/thumbs/271_1_th.jpg
+,dcb271,,,,,,/objects/271_1.JPG,/objects/small/271_1_sm.jpg,/objects/thumbs/271_1_th.jpg
+,dcb271,,,,,,/objects/271_2.JPG,/objects/small/271_2_sm.jpg,/objects/thumbs/271_2_th.jpg
+dcb272,,Indiana beer bottle Columbia Brewing Co,Logansport IN,record,image/jpg,multiple,,/objects/small/272_1_sm.jpg,/objects/thumbs/272_1_th.jpg
+,dcb272,,,,,,/objects/272_1.JPG,/objects/small/272_1_sm.jpg,/objects/thumbs/272_1_th.jpg
+,dcb272,,,,,,/objects/272_2.JPG,/objects/small/272_2_sm.jpg,/objects/thumbs/272_2_th.jpg
+dcb273,,Indiana beer bottle Huntington Brewing Co,Huntington IN,record,image/jpg,multiple,,/objects/small/273_1_sm.jpg,/objects/thumbs/273_1_th.jpg
+,dcb273,,,,,,/objects/273_1.JPG,/objects/small/273_1_sm.jpg,/objects/thumbs/273_1_th.jpg
+,dcb273,,,,,,/objects/273_2.JPG,/objects/small/273_2_sm.jpg,/objects/thumbs/273_2_th.jpg
+dcb274,,Indiana beer bottle Huntington Brewing Co,Huntington IN,record,image/jpg,multiple,,/objects/small/274_1_sm.jpg,/objects/thumbs/274_1_th.jpg
+,dcb274,,,,,,/objects/274_1.JPG,/objects/small/274_1_sm.jpg,/objects/thumbs/274_1_th.jpg
+,dcb274,,,,,,/objects/274_2.JPG,/objects/small/274_2_sm.jpg,/objects/thumbs/274_2_th.jpg
+dcb275,,Indiana beer bottle Huntington Brewing Co,Huntington IN,record,image/jpg,multiple,,/objects/small/275_1_sm.jpg,/objects/thumbs/275_1_th.jpg
+,dcb275,,,,,,/objects/275_1.JPG,/objects/small/275_1_sm.jpg,/objects/thumbs/275_1_th.jpg
+,dcb275,,,,,,/objects/275_2.JPG,/objects/small/275_2_sm.jpg,/objects/thumbs/275_2_th.jpg
+dcb276,,Indiana beer bottle Wabash Brewing Co Wabash IN,no description,record,image/jpg,multiple,,/objects/small/276_1_sm.jpg,/objects/thumbs/276_1_th.jpg
+,dcb276,,,,,,/objects/276_1.JPG,/objects/small/276_1_sm.jpg,/objects/thumbs/276_1_th.jpg
+,dcb276,,,,,,/objects/276_2.JPG,/objects/small/276_2_sm.jpg,/objects/thumbs/276_2_th.jpg
+dcb277,,Indiana beer bottle Terre Haute Brewing Co,Terre Haute IN,record,image/jpg,multiple,,/objects/small/277_1_sm.jpg,/objects/thumbs/277_1_th.jpg
+,dcb277,,,,,,/objects/277_1.JPG,/objects/small/277_1_sm.jpg,/objects/thumbs/277_1_th.jpg
+,dcb277,,,,,,/objects/277_2.JPG,/objects/small/277_2_sm.jpg,/objects/thumbs/277_2_th.jpg
+dcb278,,Indiana beer bottle J.F. Fremion Co Bottling Works,Ft Wayne,Image;StillImage,image/jpg,image,/objects/278.JPG,/objects/small/278_sm.JPG,/objects/thumbs/278_th.JPG
+dcb279,,Indiana beer bottle Lenz Bros. Bottling Works,Ft Wayne,record,image/jpg,multiple,,/objects/small/279_1_sm.jpg,/objects/thumbs/279_1_th.jpg
+,dcb279,,,,,,/objects/279_1.JPG,/objects/small/279_1_sm.jpg,/objects/thumbs/279_1_th.jpg
+,dcb279,,,,,,/objects/279_2.JPG,/objects/small/279_2_sm.jpg,/objects/thumbs/279_2_th.jpg
+dcb280,,Indiana beer bottle Lenz Bros. Fort Wayne,no description,record,image/jpg,multiple,,/objects/small/280_1_sm.jpg,/objects/thumbs/280_1_th.jpg
+,dcb280,,,,,,/objects/280_1.JPG,/objects/small/280_1_sm.jpg,/objects/thumbs/280_1_th.jpg
+,dcb280,,,,,,/objects/280_2.JPG,/objects/small/280_2_sm.jpg,/objects/thumbs/280_2_th.jpg
+dcb281,,"Indiana soda bottle, Orange Tang by Berghoff,",Fort Wayne,record,image/jpg,multiple,,/objects/small/281_1_sm.jpg,/objects/thumbs/281_1_th.jpg
+,dcb281,,,,,,/objects/281_1.JPG,/objects/small/281_1_sm.jpg,/objects/thumbs/281_1_th.jpg
+,dcb281,,,,,,/objects/281_2.JPG,/objects/small/281_2_sm.jpg,/objects/thumbs/281_2_th.jpg
+dcb282,,Indiana beer bottle Berghoff Products Mfg Co Inc,Ft Wayne,record,image/jpg,multiple,,/objects/small/282_1_sm.jpg,/objects/thumbs/282_1_th.jpg
+,dcb282,,,,,,/objects/282_1.JPG,/objects/small/282_1_sm.jpg,/objects/thumbs/282_1_th.jpg
+,dcb282,,,,,,/objects/282_2.JPG,/objects/small/282_2_sm.jpg,/objects/thumbs/282_2_th.jpg
+dcb283,,"Indiana beer bottle lot of 3 Berghoff pony size,",Fort Wayne,Image;StillImage,image/jpg,image,/objects/283.JPG,/objects/small/283_sm.JPG,/objects/thumbs/283_th.JPG
+dcb284,,"Indiana soda bottle F and V, Fort Wayne",no description,record,image/jpg,multiple,,/objects/small/284_1_sm.jpg,/objects/thumbs/284_1_th.jpg
+,dcb284,,,,,,/objects/284_1.JPG,/objects/small/284_1_sm.jpg,/objects/thumbs/284_1_th.jpg
+,dcb284,,,,,,/objects/284_2.JPG,/objects/small/284_2_sm.jpg,/objects/thumbs/284_2_th.jpg
+dcb285,,"Indiana soda bottle F and V, Fort Wayne",no description,record,image/jpg,multiple,,/objects/small/285_1_sm.jpg,/objects/thumbs/285_1_th.jpg
+,dcb285,,,,,,/objects/285_1.JPG,/objects/small/285_1_sm.jpg,/objects/thumbs/285_1_th.jpg
+,dcb285,,,,,,/objects/285_2.JPG,/objects/small/285_2_sm.jpg,/objects/thumbs/285_2_th.jpg
+dcb286,,Indiana soda bottle L. Brames & Co Fort Wayne,no description,record,image/jpg,multiple,,/objects/small/286_1_sm.jpg,/objects/thumbs/286_1_th.jpg
+,dcb286,,,,,,/objects/286_1.JPG,/objects/small/286_1_sm.jpg,/objects/thumbs/286_1_th.jpg
+,dcb286,,,,,,/objects/286_2.JPG,/objects/small/286_2_sm.jpg,/objects/thumbs/286_2_th.jpg
+dcb287,,Indiana soda bottle J.F. Fremion Bottling Works,Ft Wayne,record,image/jpg,multiple,,/objects/small/287_1_sm.jpg,/objects/thumbs/287_1_th.jpg
+,dcb287,,,,,,/objects/287_1.JPG,/objects/small/287_1_sm.jpg,/objects/thumbs/287_1_th.jpg
+,dcb287,,,,,,/objects/287_2.JPG,/objects/small/287_2_sm.jpg,/objects/thumbs/287_2_th.jpg
+dcb288,,Indiana soda bottle J.L. Fremion Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/288_1_sm.jpg,/objects/thumbs/288_1_th.jpg
+,dcb288,,,,,,/objects/288_1.JPG,/objects/small/288_1_sm.jpg,/objects/thumbs/288_1_th.jpg
+,dcb288,,,,,,/objects/288_2.JPG,/objects/small/288_2_sm.jpg,/objects/thumbs/288_2_th.jpg
+dcb289,,Indiana soda bottle J.L. Fremion Bottling Works,Ft Wayne,record,image/jpg,multiple,,/objects/small/289_1_sm.jpg,/objects/thumbs/289_1_th.jpg
+,dcb289,,,,,,/objects/289_1.JPG,/objects/small/289_1_sm.jpg,/objects/thumbs/289_1_th.jpg
+,dcb289,,,,,,/objects/289_2.JPG,/objects/small/289_2_sm.jpg,/objects/thumbs/289_2_th.jpg
+dcb290,,Indiana soda bottle J.L. Fremion Bottling Works,Ft Wayne,record,image/jpg,multiple,,/objects/small/290_1_sm.jpg,/objects/thumbs/290_1_th.jpg
+,dcb290,,,,,,/objects/290_1.JPG,/objects/small/290_1_sm.jpg,/objects/thumbs/290_1_th.jpg
+,dcb290,,,,,,/objects/290_2.JPG,/objects/small/290_2_sm.jpg,/objects/thumbs/290_2_th.jpg
+dcb291,,Indiana soda bottle J.L. Fremion Bottling Works,Ft Wayne,record,image/jpg,multiple,,/objects/small/291_1_sm.jpg,/objects/thumbs/291_1_th.jpg
+,dcb291,,,,,,/objects/291_1.JPG,/objects/small/291_1_sm.jpg,/objects/thumbs/291_1_th.jpg
+,dcb291,,,,,,/objects/291_2.JPG,/objects/small/291_2_sm.jpg,/objects/thumbs/291_2_th.jpg
+dcb292,,Indiana soda bottle J.L. Fremion Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/292_1_sm.jpg,/objects/thumbs/292_1_th.jpg
+,dcb292,,,,,,/objects/292_1.JPG,/objects/small/292_1_sm.jpg,/objects/thumbs/292_1_th.jpg
+,dcb292,,,,,,/objects/292_2.JPG,/objects/small/292_2_sm.jpg,/objects/thumbs/292_2_th.jpg
+dcb293,,Indiana soda bottle Lenz Bros. Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/293_1_sm.jpg,/objects/thumbs/293_1_th.jpg
+,dcb293,,,,,,/objects/293_1.JPG,/objects/small/293_1_sm.jpg,/objects/thumbs/293_1_th.jpg
+,dcb293,,,,,,/objects/293_2.JPG,/objects/small/293_2_sm.jpg,/objects/thumbs/293_2_th.jpg
+dcb294,,Indiana soda bottle Lenz Bros. Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/294_1_sm.jpg,/objects/thumbs/294_1_th.jpg
+,dcb294,,,,,,/objects/294_1.JPG,/objects/small/294_1_sm.jpg,/objects/thumbs/294_1_th.jpg
+,dcb294,,,,,,/objects/294_2.JPG,/objects/small/294_2_sm.jpg,/objects/thumbs/294_2_th.jpg
+dcb295,,Indiana soda bottle Lenz Bros Bottling Co Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/295_1_sm.jpg,/objects/thumbs/295_1_th.jpg
+,dcb295,,,,,,/objects/295_1.JPG,/objects/small/295_1_sm.jpg,/objects/thumbs/295_1_th.jpg
+,dcb295,,,,,,/objects/295_2.JPG,/objects/small/295_2_sm.jpg,/objects/thumbs/295_2_th.jpg
+dcb296,,Indiana soda bottle Lenz Bros Bottling Co Ft Wayne,no description,record,image/jpg,multiple,,/objects/small/296_1_sm.jpg,/objects/thumbs/296_1_th.jpg
+,dcb296,,,,,,/objects/296_1.JPG,/objects/small/296_1_sm.jpg,/objects/thumbs/296_1_th.jpg
+,dcb296,,,,,,/objects/296_2.JPG,/objects/small/296_2_sm.jpg,/objects/thumbs/296_2_th.jpg
+dcb297,,"Indiana soda bottle Lenz Bros Bottling Works, Ft","Wayne, lot of 2, nick to one",record,image/jpg,multiple,,/objects/small/297_1_sm.jpg,/objects/thumbs/297_1_th.jpg
+,dcb297,,,,,,/objects/297_1.JPG,/objects/small/297_1_sm.jpg,/objects/thumbs/297_1_th.jpg
+,dcb297,,,,,,/objects/297_2.JPG,/objects/small/297_2_sm.jpg,/objects/thumbs/297_2_th.jpg
+dcb298,,Indiana soda bottle F and V Bottling Works Ft,Wayne,record,image/jpg,multiple,,/objects/small/298_1_sm.jpg,/objects/thumbs/298_1_th.jpg
+,dcb298,,,,,,/objects/298_1.JPG,/objects/small/298_1_sm.jpg,/objects/thumbs/298_1_th.jpg
+,dcb298,,,,,,/objects/298_2.JPG,/objects/small/298_2_sm.jpg,/objects/thumbs/298_2_th.jpg
+dcb299,,Indiana soda bottle J.L. Fremion Bottling Works Ft,Wayne,record,image/jpg,multiple,,/objects/small/299_1_sm.jpg,/objects/thumbs/299_1_th.jpg
+,dcb299,,,,,,/objects/299_1.JPG,/objects/small/299_1_sm.jpg,/objects/thumbs/299_1_th.jpg
+,dcb299,,,,,,/objects/299_2.JPG,/objects/small/299_2_sm.jpg,/objects/thumbs/299_2_th.jpg
+dcb300,,Indiana soda bottle Wm Scheele Mineral Water,Works Ft Wayne,record,image/jpg,multiple,,/objects/small/300_1_sm.jpg,/objects/thumbs/300_1_th.jpg
+,dcb300,,,,,,/objects/300_1.JPG,/objects/small/300_1_sm.jpg,/objects/thumbs/300_1_th.jpg
+,dcb300,,,,,,/objects/300_2.JPG,/objects/small/300_2_sm.jpg,/objects/thumbs/300_2_th.jpg
+dcb301,,"Indiana soda bottle lot of 2, Wm Scheele Ft Wayne",no description,record,image/jpg,multiple,,/objects/small/301_1_sm.jpg,/objects/thumbs/301_1_th.jpg
+,dcb301,,,,,,/objects/301_1.JPG,/objects/small/301_1_sm.jpg,/objects/thumbs/301_1_th.jpg
+,dcb301,,,,,,/objects/301_2.JPG,/objects/small/301_2_sm.jpg,/objects/thumbs/301_2_th.jpg
+dcb302,,Indiana soda bottle lot of 4: 2 Wm Scheele and,"2 L. Brames & Son, all with nicks, Ft Wayne",record,image/jpg,multiple,,/objects/small/302_1_sm.jpg,/objects/thumbs/302_1_th.jpg
+,dcb302,,,,,,/objects/302_1.JPG,/objects/small/302_1_sm.jpg,/objects/thumbs/302_1_th.jpg
+,dcb302,,,,,,/objects/302_2.JPG,/objects/small/302_2_sm.jpg,/objects/thumbs/302_2_th.jpg
+dcb303,,"Indiana soda bottle John A. Reis Bottler,",Lafayette IN,record,image/jpg,multiple,,/objects/small/303_1_sm.jpg,/objects/thumbs/303_1_th.jpg
+,dcb303,,,,,,/objects/303_1.JPG,/objects/small/303_1_sm.jpg,/objects/thumbs/303_1_th.jpg
+,dcb303,,,,,,/objects/303_2.JPG,/objects/small/303_2_sm.jpg,/objects/thumbs/303_2_th.jpg
+dcb304,,"Indiana beer bottle Wabash Brewing Co, Wabash IN",no description,record,image/jpg,multiple,,/objects/small/304_1_sm.jpg,/objects/thumbs/304_1_th.jpg
+,dcb304,,,,,,/objects/304_1.JPG,/objects/small/304_1_sm.jpg,/objects/thumbs/304_1_th.jpg
+,dcb304,,,,,,/objects/304_2.JPG,/objects/small/304_2_sm.jpg,/objects/thumbs/304_2_th.jpg
+dcb305,,"Indiana beer bottle Wabash Brewing Co, Wabash IN",no description,record,image/jpg,multiple,,/objects/small/305_1_sm.jpg,/objects/thumbs/305_1_th.jpg
+,dcb305,,,,,,/objects/305_1.JPG,/objects/small/305_1_sm.jpg,/objects/thumbs/305_1_th.jpg
+,dcb305,,,,,,/objects/305_2.JPG,/objects/small/305_2_sm.jpg,/objects/thumbs/305_2_th.jpg
+dcb306,,Indiana beer bottle John A. Reis Star City,"Bottling Works, Lafayette IN",record,image/jpg,multiple,,/objects/small/306_1_sm.jpg,/objects/thumbs/306_1_th.jpg
+,dcb306,,,,,,/objects/306_1.JPG,/objects/small/306_1_sm.jpg,/objects/thumbs/306_1_th.jpg
+,dcb306,,,,,,/objects/306_2.JPG,/objects/small/306_2_sm.jpg,/objects/thumbs/306_2_th.jpg
+dcb307,,Indiana beer bottle John A. Reis Bottler Lafayette,IN,record,image/jpg,multiple,,/objects/small/307_1_sm.jpg,/objects/thumbs/307_1_th.jpg
+,dcb307,,,,,,/objects/307_1.JPG,/objects/small/307_1_sm.jpg,/objects/thumbs/307_1_th.jpg
+,dcb307,,,,,,/objects/307_2.JPG,/objects/small/307_2_sm.jpg,/objects/thumbs/307_2_th.jpg
+dcb308,,Indiana beer bottle Lafayette Bottling Works,no description,record,image/jpg,multiple,,/objects/small/308_1_sm.jpg,/objects/thumbs/308_1_th.jpg
+,dcb308,,,,,,/objects/308_1.JPG,/objects/small/308_1_sm.jpg,/objects/thumbs/308_1_th.jpg
+,dcb308,,,,,,/objects/308_2.JPG,/objects/small/308_2_sm.jpg,/objects/thumbs/308_2_th.jpg
+dcb309,,Indiana beer bottle John A. Reis Star City,"Bottling Works, Lafayette IN",record,image/jpg,multiple,,/objects/small/309_1_sm.jpg,/objects/thumbs/309_1_th.jpg
+,dcb309,,,,,,/objects/309_1.JPG,/objects/small/309_1_sm.jpg,/objects/thumbs/309_1_th.jpg
+,dcb309,,,,,,/objects/309_2.JPG,/objects/small/309_2_sm.jpg,/objects/thumbs/309_2_th.jpg
+dcb310,,"Indiana beer bottle Howells Bottling Works,",Lafayette IN,record,image/jpg,multiple,,/objects/small/310_1_sm.jpg,/objects/thumbs/310_1_th.jpg
+,dcb310,,,,,,/objects/310_1.JPG,/objects/small/310_1_sm.jpg,/objects/thumbs/310_1_th.jpg
+,dcb310,,,,,,/objects/310_2.JPG,/objects/small/310_2_sm.jpg,/objects/thumbs/310_2_th.jpg
+dcb311,,Indiana beer bottle Terre Haute Brewing Co,Terre Haute IN,record,image/jpg,multiple,,/objects/small/311_1_sm.jpg,/objects/thumbs/311_1_th.jpg
+,dcb311,,,,,,/objects/311_1.JPG,/objects/small/311_1_sm.jpg,/objects/thumbs/311_1_th.jpg
+,dcb311,,,,,,/objects/311_2.JPG,/objects/small/311_2_sm.jpg,/objects/thumbs/311_2_th.jpg
+dcb312,,"Indiana beer bottle lot of 2, Hannagan &",Fitzgerald Bottlers Lafayette IN,record,image/jpg,multiple,,/objects/small/312_1_sm.jpg,/objects/thumbs/312_1_th.jpg
+,dcb312,,,,,,/objects/312_1.JPG,/objects/small/312_1_sm.jpg,/objects/thumbs/312_1_th.jpg
+,dcb312,,,,,,/objects/312_2.JPG,/objects/small/312_2_sm.jpg,/objects/thumbs/312_2_th.jpg
+dcb313,,"Indiana beer bottle lot of 3, Columbia Brewing Co,",Logansport IN,record,image/jpg,multiple,,/objects/small/313_1_sm.jpg,/objects/thumbs/313_1_th.jpg
+,dcb313,,,,,,/objects/313_1.JPG,/objects/small/313_1_sm.jpg,/objects/thumbs/313_1_th.jpg
+,dcb313,,,,,,/objects/313_2.JPG,/objects/small/313_2_sm.jpg,/objects/thumbs/313_2_th.jpg
+dcb314,,Indiana beer bottle lot of 4 Berghoff bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/314.JPG,/objects/small/314_sm.JPG,/objects/thumbs/314_th.JPG
+dcb315,,Indiana beer bottle lot of 4 Berghoff bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/315.JPG,/objects/small/315_sm.JPG,/objects/thumbs/315_th.JPG
+dcb316,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/316.JPG,/objects/small/316_sm.JPG,/objects/thumbs/316_th.JPG
+dcb317,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/317.JPG,/objects/small/317_sm.JPG,/objects/thumbs/317_th.JPG
+dcb318,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/318.JPG,/objects/small/318_sm.JPG,/objects/thumbs/318_th.JPG
+dcb319,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/319.JPG,/objects/small/319_sm.JPG,/objects/thumbs/319_th.JPG
+dcb320,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/320.JPG,/objects/small/320_sm.JPG,/objects/thumbs/320_th.JPG
+dcb321,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/321.JPG,/objects/small/321_sm.JPG,/objects/thumbs/321_th.JPG
+dcb322,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/322.JPG,/objects/small/322_sm.JPG,/objects/thumbs/322_th.JPG
+dcb323,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/323.JPG,/objects/small/323_sm.JPG,/objects/thumbs/323_th.JPG
+dcb324,,Indiana beer bottle lot of 5 Centlivre bottles,Ft Wayne,Image;StillImage,image/jpg,image,/objects/324.JPG,/objects/small/324_sm.JPG,/objects/thumbs/324_th.JPG
+dcb325,,"Beer bottle, Green Seal Select",no description,record,image/jpg,multiple,,/objects/small/325_1_sm.jpg,/objects/thumbs/325_1_th.jpg
+,dcb325,,,,,,/objects/325_1.JPG,/objects/small/325_1_sm.jpg,/objects/thumbs/325_1_th.jpg
+,dcb325,,,,,,/objects/325_2.JPG,/objects/small/325_2_sm.jpg,/objects/thumbs/325_2_th.jpg
+dcb326,,"Beer bottle, Green Seal Select",no description,record,image/jpg,multiple,,/objects/small/326_1_sm.jpg,/objects/thumbs/326_1_th.jpg
+,dcb326,,,,,,/objects/326_1.JPG,/objects/small/326_1_sm.jpg,/objects/thumbs/326_1_th.jpg
+,dcb326,,,,,,/objects/326_2.JPG,/objects/small/326_2_sm.jpg,/objects/thumbs/326_2_th.jpg
+dcb327,,"Beer bottle lot of 7, Green Seal Select",,Image;StillImage,image/jpg,image,/objects/327.JPG,/objects/small/327_sm.JPG,/objects/thumbs/327_th.JPG
+dcb328,,"Indiana beer bottle Madison Brewing Co,",Madison IN,record,image/jpg,multiple,,/objects/small/328_1_sm.jpg,/objects/thumbs/328_1_th.jpg
+,dcb328,,,,,,/objects/328_1.JPG,/objects/small/328_1_sm.jpg,/objects/thumbs/328_1_th.jpg
+,dcb328,,,,,,/objects/328_2.JPG,/objects/small/328_2_sm.jpg,/objects/thumbs/328_2_th.jpg
+dcb329,,"Indiana beer bottle PH Zorn Brewing Co,",Michigan City IN,record,image/jpg,multiple,,/objects/small/329_1_sm.jpg,/objects/thumbs/329_1_th.jpg
+,dcb329,,,,,,/objects/329_1.JPG,/objects/small/329_1_sm.jpg,/objects/thumbs/329_1_th.jpg
+,dcb329,,,,,,/objects/329_2.JPG,/objects/small/329_2_sm.jpg,/objects/thumbs/329_2_th.jpg
+dcb330,,"Indiana beer bottle PH Zorn Brewing Co,",Michigan City IN,record,image/jpg,multiple,,/objects/small/330_1_sm.jpg,/objects/thumbs/330_1_th.jpg
+,dcb330,,,,,,/objects/330_1.JPG,/objects/small/330_1_sm.jpg,/objects/thumbs/330_1_th.jpg
+,dcb330,,,,,,/objects/330_2.JPG,/objects/small/330_2_sm.jpg,/objects/thumbs/330_2_th.jpg
+dcb331,,"Indiana beer bottle Minck Brewing Co Richmond IN,",lot of 2,Image;StillImage,image/jpg,image,/objects/331.JPG,/objects/small/331_sm.JPG,/objects/thumbs/331_th.JPG
+dcb332,,Indiana beer bottle Madison Brewing Co Madison IN,no description,record,image/jpg,multiple,,/objects/small/332_1_sm.jpg,/objects/thumbs/332_1_th.jpg
+,dcb332,,,,,,/objects/332_1.JPG,/objects/small/332_1_sm.jpg,/objects/thumbs/332_1_th.jpg
+,dcb332,,,,,,/objects/332_2.JPG,/objects/small/332_2_sm.jpg,/objects/thumbs/332_2_th.jpg
+dcb333,,"Beer bottle A. Gettelman, Milwaukee",no description,record,image/jpg,multiple,,/objects/small/333_1_sm.jpg,/objects/thumbs/333_1_th.jpg
+,dcb333,,,,,,/objects/333_1.JPG,/objects/small/333_1_sm.jpg,/objects/thumbs/333_1_th.jpg
+,dcb333,,,,,,/objects/333_2.JPG,/objects/small/333_2_sm.jpg,/objects/thumbs/333_2_th.jpg
+dcb334,,"Beer bottle, Frank Fehr Brewing Co Louisville KY",no description,record,image/jpg,multiple,,/objects/small/334_1_sm.jpg,/objects/thumbs/334_1_th.jpg
+,dcb334,,,,,,/objects/334_1.JPG,/objects/small/334_1_sm.jpg,/objects/thumbs/334_1_th.jpg
+,dcb334,,,,,,/objects/334_2.JPG,/objects/small/334_2_sm.jpg,/objects/thumbs/334_2_th.jpg
+dcb335,,"Beer bottle, Koppitz-Melcher Brew Co. Detroit MI",no description,record,image/jpg,multiple,,/objects/small/335_1_sm.jpg,/objects/thumbs/335_1_th.jpg
+,dcb335,,,,,,/objects/335_1.JPG,/objects/small/335_1_sm.jpg,/objects/thumbs/335_1_th.jpg
+,dcb335,,,,,,/objects/335_2.JPG,/objects/small/335_2_sm.jpg,/objects/thumbs/335_2_th.jpg
+dcb336,,Lot of 6 assorted bottles,,Image;StillImage,image/jpg,image,/objects/336.JPG,/objects/small/336_sm.JPG,/objects/thumbs/336_th.JPG
+dcb337,,"Log Cabin bitters bottle, cracked, chip",,Image;StillImage,image/jpg,image,/objects/337.JPG,/objects/small/337_sm.JPG,/objects/thumbs/337_th.JPG
+dcb338,,"Lot of 7 bottles, some damage",,Image;StillImage,image/jpg,image,/objects/338.JPG,/objects/small/338_sm.JPG,/objects/thumbs/338_th.JPG
+dcb339,,"Coca Cola lot of 2 bottles: amber Fort Wayne,","(chip), and aqua Indianapolis",Image;StillImage,image/jpg,image,/objects/339.JPG,/objects/small/339_sm.JPG,/objects/thumbs/339_th.JPG
+dcb340,,"Bitters bottle H.E. Bucklen & Co, Chicago IL,",Electric Bitters,record,image/jpg,multiple,,/objects/small/340_1_sm.jpg,/objects/thumbs/340_1_th.jpg
+,dcb340,,,,,,/objects/340_1.JPG,/objects/small/340_1_sm.jpg,/objects/thumbs/340_1_th.jpg
+,dcb340,,,,,,/objects/340_2.JPG,/objects/small/340_2_sm.jpg,/objects/thumbs/340_2_th.jpg
+dcb341,,"Lot of 9 assorted bottles, some damage",,Image;StillImage,image/jpg,image,/objects/341.JPG,/objects/small/341_sm.JPG,/objects/thumbs/341_th.JPG
+dcb342,,Lot of 5 Fort Wayne Drug Company bottles,,Image;StillImage,image/jpg,image,/objects/342.JPG,/objects/small/342_sm.JPG,/objects/thumbs/342_th.JPG
+dcb343,,"Indiana beer bottle lot of 4 Walter Raupfer,",Columbia City IN,Image;StillImage,image/jpg,image,/objects/343.JPG,/objects/small/343_sm.JPG,/objects/thumbs/343_th.JPG
+dcb344,,"Indiana beer bottle lot of 4 Walter Raupfer,",Columbia City IN,Image;StillImage,image/jpg,image,/objects/344.JPG,/objects/small/344_sm.JPG,/objects/thumbs/344_th.JPG
+dcb345,,"Indiana beer bottle lot of 4 Walter Raupfer,",Columbia City IN,Image;StillImage,image/jpg,image,/objects/345.JPG,/objects/small/345_sm.JPG,/objects/thumbs/345_th.JPG
+dcb346,,"Indiana beer bottle lot of 4 Walter Raupfer,",Columbia City IN,Image;StillImage,image/jpg,image,/objects/346.JPG,/objects/small/346_sm.JPG,/objects/thumbs/346_th.JPG
+dcb347,,Lot of decanters and bottles,,Image;StillImage,image/jpg,image,/objects/347.JPG,/objects/small/347_sm.JPG,/objects/thumbs/347_th.JPG
+dcb348,,"Lot of 29 Fort Wayne medicine bottles, various",condition,Image;StillImage,image/jpg,image,/objects/348.JPG,/objects/small/348_sm.JPG,/objects/thumbs/348_th.JPG
+dcb349,,"Lot of 35 +/- Fort Wayne medicine bottles, various",condition,Image;StillImage,image/jpg,image,/objects/349.JPG,/objects/small/349_sm.JPG,/objects/thumbs/349_th.JPG
+dcb350,,"Lot of 30 Fort Wayne medicine bottles, various",condition,Image;StillImage,image/jpg,image,/objects/350.JPG,/objects/small/350_sm.JPG,/objects/thumbs/350_th.JPG
+dcb351,,"Lot of 13 Fort Wayne medicine bottles, various",condition,Image;StillImage,image/jpg,image,/objects/351.JPG,/objects/small/351_sm.JPG,/objects/thumbs/351_th.JPG
+dcb352,,"Lot of 10 medicine bottles, various condition",,Image;StillImage,image/jpg,image,/objects/352.JPG,/objects/small/352_sm.JPG,/objects/thumbs/352_th.JPG
+dcb353,,"Lot of 11 medicine bottles, various condition",,Image;StillImage,image/jpg,image,/objects/353.JPG,/objects/small/353_sm.JPG,/objects/thumbs/353_th.JPG
+dcb354,,"Box of bottles, various condition",,Image;StillImage,image/jpg,image,/objects/354.JPG,/objects/small/354_sm.JPG,/objects/thumbs/354_th.JPG
+dcb355,,"Berghoff cone top beer can, some rust",,Image;StillImage,image/jpg,image,/objects/355.JPG,/objects/small/355_sm.JPG,/objects/thumbs/355_th.JPG
+dcb356,,"Berghoff cone top beer can, some rust",,Image;StillImage,image/jpg,image,/objects/356.JPG,/objects/small/356_sm.JPG,/objects/thumbs/356_th.JPG
+dcb357,,"Berghoff cone top beer can, some rust",,Image;StillImage,image/jpg,image,/objects/357.JPG,/objects/small/357_sm.JPG,/objects/thumbs/357_th.JPG
+dcb358,,"Lot of 3 beer cans: 2 - Old Crown, 1 Becker's,",some rust,Image;StillImage,image/jpg,image,/objects/358.JPG,/objects/small/358_sm.JPG,/objects/thumbs/358_th.JPG
+dcb359,,Miniature Berghoff bottle,,Image;StillImage,image/jpg,image,/objects/359.JPG,/objects/small/359_sm.JPG,/objects/thumbs/359_th.JPG
+dcb360,,"Sterling Beer plaster mug bank music box,","non-working, handle re-stuck",record,image/jpg,multiple,,/objects/small/360_1_sm.jpg,/objects/thumbs/360_1_th.jpg
+,dcb360,,,,,,/objects/360_1.JPG,/objects/small/360_1_sm.jpg,/objects/thumbs/360_1_th.jpg
+,dcb360,,,,,,/objects/360_2.JPG,/objects/small/360_2_sm.jpg,/objects/thumbs/360_2_th.jpg
+dcb361,,Sterling Beer plaster advertising piece,,Image;StillImage,image/jpg,image,/objects/361.JPG,/objects/small/361_sm.JPG,/objects/thumbs/361_th.JPG
+dcb362,,"Pfeiffer's advertising figure, some damage",,Image;StillImage,image/jpg,image,/objects/362.JPG,/objects/small/362_sm.JPG,/objects/thumbs/362_th.JPG
+dcb363,,"Pair of plaster beer advertising figures,",damage to girl,Image;StillImage,image/jpg,image,/objects/363.JPG,/objects/small/363_sm.JPG,/objects/thumbs/363_th.JPG
+dcb364,,Berghoff advertising sign on masonite,,Image;StillImage,image/jpg,image,/objects/364.JPG,/objects/small/364_sm.JPG,/objects/thumbs/364_th.JPG
+dcb365,,Berghoff advertising sign,,Image;StillImage,image/jpg,image,/objects/365.JPG,/objects/small/365_sm.JPG,/objects/thumbs/365_th.JPG
+dcb366,,"Centlivre glass sign, losses",,Image;StillImage,image/jpg,image,/objects/366.JPG,/objects/small/366_sm.JPG,/objects/thumbs/366_th.JPG
+dcb367,,Berghoff Beer advertising tray,,Image;StillImage,image/jpg,image,/objects/367.JPG,/objects/small/367_sm.JPG,/objects/thumbs/367_th.JPG
+dcb368,,Old Crown bottle cap advertising sign,,Image;StillImage,image/jpg,image,/objects/368.JPG,/objects/small/368_sm.JPG,/objects/thumbs/368_th.JPG
+dcb369,,Old Crown lot of metal tags,,Image;StillImage,image/jpg,image,/objects/369.JPG,/objects/small/369_sm.JPG,/objects/thumbs/369_th.JPG
+dcb370,,Lot of 2 Berghoff train cars and 5 Falstaff,coasters,Image;StillImage,image/jpg,image,/objects/370.JPG,/objects/small/370_sm.JPG,/objects/thumbs/370_th.JPG
+dcb371,,Falls City Beer letter opener,,Image;StillImage,image/jpg,image,/objects/371.JPG,/objects/small/371_sm.JPG,/objects/thumbs/371_th.JPG
+dcb372,,Old Crown and other box of labels,,Image;StillImage,image/jpg,image,/objects/372.JPG,/objects/small/372_sm.JPG,/objects/thumbs/372_th.JPG
+dcb373,,"Glass advertising sign - John Lenk Groceries,","Dry Goods & Meat Market, Fort Wayne",Image;StillImage,image/jpg,image,/objects/373.JPG,/objects/small/373_sm.JPG,/objects/thumbs/373_th.JPG
+dcb374,,"Old brewery photograph, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/374.JPG,/objects/small/374_sm.JPG,/objects/thumbs/374_th.JPG
+dcb375,,Old Crown and other related items,,Image;StillImage,image/jpg,image,/objects/375.JPG,/objects/small/375_sm.JPG,/objects/thumbs/375_th.JPG
+dcb376,,Glass beaker in original box,,Image;StillImage,image/jpg,image,/objects/376.JPG,/objects/small/376_sm.JPG,/objects/thumbs/376_th.JPG
+dcb377,,"C.L. Centlivre corkscrew, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/377.JPG,/objects/small/377_sm.JPG,/objects/thumbs/377_th.JPG
+dcb378,,Berghoff 1887 beer bottle opener,,Image;StillImage,image/jpg,image,/objects/378.JPG,/objects/small/378_sm.JPG,/objects/thumbs/378_th.JPG
+dcb379,,"Family Liquor Store A.B. Jackson Prop. Fort Wayne,",advertising piece,Image;StillImage,image/jpg,image,/objects/379.JPG,/objects/small/379_sm.JPG,/objects/thumbs/379_th.JPG
+dcb380,,"Pennsylvania Bottle Collectors Assoc. jug,",1973 banquet,record,image/jpg,multiple,,/objects/small/380_1_sm.jpg,/objects/thumbs/380_1_th.jpg
+,dcb380,,,,,,/objects/380_1.JPG,/objects/small/380_1_sm.jpg,/objects/thumbs/380_1_th.jpg
+,dcb380,,,,,,/objects/380_2.JPG,/objects/small/380_2_sm.jpg,/objects/thumbs/380_2_th.jpg
+dcb381,,Lot of 3 Fort Wayne advertising tins:,"J.C. Hutzell's Ovelmo Treatment, Ovelmo Blood  Purifier; Phosphorated Iron",Image;StillImage,image/jpg,image,/objects/381.JPG,/objects/small/381_sm.JPG,/objects/thumbs/381_th.JPG
+dcb382,,"The Old Fort Distilling Co shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/382.JPG,/objects/small/382_sm.JPG,/objects/thumbs/382_th.JPG
+dcb383,,"The Old Fort Distilling Co shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/383.JPG,/objects/small/383_sm.JPG,/objects/thumbs/383_th.JPG
+dcb384,,"The Old Fort Distilling Co shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/384.JPG,/objects/small/384_sm.JPG,/objects/thumbs/384_th.JPG
+dcb385,,"The Old Fort Distilling Co shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/385.JPG,/objects/small/385_sm.JPG,/objects/thumbs/385_th.JPG
+dcb386,,"Freese & Gale shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/386.JPG,/objects/small/386_sm.JPG,/objects/thumbs/386_th.JPG
+dcb387,,"Freese & Gale shot glass, Fort Wayne",,Image;StillImage,image/jpg,image,/objects/387.JPG,/objects/small/387_sm.JPG,/objects/thumbs/387_th.JPG
+dcb388,,"Clyde B. Jordan Drugs, Fort Wayne, measurer",,Image;StillImage,image/jpg,image,/objects/388.JPG,/objects/small/388_sm.JPG,/objects/thumbs/388_th.JPG
+dcb389,,Berghoff pair of goblets,,Image;StillImage,image/jpg,image,/objects/389.JPG,/objects/small/389_sm.JPG,/objects/thumbs/389_th.JPG
+dcb390,,Berghoff pair of goblets,,Image;StillImage,image/jpg,image,/objects/390.JPG,/objects/small/390_sm.JPG,/objects/thumbs/390_th.JPG
+dcb391,,Berghoff pair of goblets,,Image;StillImage,image/jpg,image,/objects/391.JPG,/objects/small/391_sm.JPG,/objects/thumbs/391_th.JPG
+dcb392,,Berghoff beer glass,no description,record,image/jpg,multiple,,/objects/small/392_1_sm.jpg,/objects/thumbs/392_1_th.jpg
+,dcb392,,,,,,/objects/392_1.JPG,/objects/small/392_1_sm.jpg,/objects/thumbs/392_1_th.jpg
+,dcb392,,,,,,/objects/392_2.JPG,/objects/small/392_2_sm.jpg,/objects/thumbs/392_2_th.jpg
+dcb393,,Berghoff beer glass,no description,record,image/jpg,multiple,,/objects/small/393_1_sm.jpg,/objects/thumbs/393_1_th.jpg
+,dcb393,,,,,,/objects/393_1.JPG,/objects/small/393_1_sm.jpg,/objects/thumbs/393_1_th.jpg
+,dcb393,,,,,,/objects/393_2.JPG,/objects/small/393_2_sm.jpg,/objects/thumbs/393_2_th.jpg
+dcb394,,Berghoff beer glass,no description,record,image/jpg,multiple,,/objects/small/394_1_sm.jpg,/objects/thumbs/394_1_th.jpg
+,dcb394,,,,,,/objects/394_1.JPG,/objects/small/394_1_sm.jpg,/objects/thumbs/394_1_th.jpg
+,dcb394,,,,,,/objects/394_2.JPG,/objects/small/394_2_sm.jpg,/objects/thumbs/394_2_th.jpg
+dcb395,,Berghoff beer glass,no description,record,image/jpg,multiple,,/objects/small/395_1_sm.jpg,/objects/thumbs/395_1_th.jpg
+,dcb395,,,,,,/objects/395_1.JPG,/objects/small/395_1_sm.jpg,/objects/thumbs/395_1_th.jpg
+,dcb395,,,,,,/objects/395_2.JPG,/objects/small/395_2_sm.jpg,/objects/thumbs/395_2_th.jpg
+dcb396,,Berghoff beer glass,,Image;StillImage,image/jpg,image,/objects/396.JPG,/objects/small/396_sm.JPG,/objects/thumbs/396_th.JPG
+dcb397,,Berghoff pair of beer glasses,,Image;StillImage,image/jpg,image,/objects/397.JPG,/objects/small/397_sm.JPG,/objects/thumbs/397_th.JPG
+dcb398,,Berghoff pair of beer glasses,,Image;StillImage,image/jpg,image,/objects/398.JPG,/objects/small/398_sm.JPG,/objects/thumbs/398_th.JPG
+dcb399,,"Berghoff lot of 2 Salvator glasses, minor nicks",,Image;StillImage,image/jpg,image,/objects/399.JPG,/objects/small/399_sm.JPG,/objects/thumbs/399_th.JPG
+dcb400,,Old Fort Cider Works glass,,Image;StillImage,image/jpg,image,/objects/400.JPG,/objects/small/400_sm.JPG,/objects/thumbs/400_th.JPG
+dcb401,,Centlivre lot of 2 glasses,,Image;StillImage,image/jpg,image,/objects/401.JPG,/objects/small/401_sm.JPG,/objects/thumbs/401_th.JPG
+dcb402,,"1913 American Art Works 'A Busy Wire' tray, 13""",,Image;StillImage,image/jpg,image,/objects/402.JPG,/objects/small/402_sm.JPG,/objects/thumbs/402_th.JPG
+dcb403,,Dr. Mike's Nervine Brings Sleep cardboard sign,"in wooden frame, water damage, 41""x31""",Image;StillImage,image/jpg,image,/objects/403.JPG,/objects/small/403_sm.JPG,/objects/thumbs/403_th.JPG
+dcb404,,"1939 calendar, 100 Years of Baseball with Berghoff","advertisement, 29""x22""",record,image/jpg,multiple,,/objects/small/404_1_sm.jpg,/objects/thumbs/404_1_th.jpg
+,dcb404,,,,,,/objects/404_1.JPG,/objects/small/404_1_sm.jpg,/objects/thumbs/404_1_th.jpg
+,dcb404,,,,,,/objects/404_2.JPG,/objects/small/404_2_sm.jpg,/objects/thumbs/404_2_th.jpg
+dcb405,,1926 Berghoff 40th Anniversary advertisement,"from The News Sentinel, Fort Wayne",Image;StillImage,image/jpg,image,/objects/405.JPG,/objects/small/405_sm.JPG,/objects/thumbs/405_th.JPG
+dcb406,,"Pabst Blue Ribbon cardboard sign ""Bluffton","Prod. Co."", 17 1/2""x27""",Image;StillImage,image/jpg,image,/objects/406.JPG,/objects/small/406_sm.JPG,/objects/thumbs/406_th.JPG
+dcb407,,American Art Works metal sign 'Carling's',no description,record,image/jpg,multiple,,/objects/small/407_1_sm.jpg,/objects/thumbs/407_1_th.jpg
+,dcb407,,,,,,/objects/407_1.JPG,/objects/small/407_1_sm.jpg,/objects/thumbs/407_1_th.jpg
+,dcb407,,,,,,/objects/407_2.JPG,/objects/small/407_2_sm.jpg,/objects/thumbs/407_2_th.jpg
+dcb408,,"Berghoff partial embossed advertising sign,","16""x23 1/2""",Image;StillImage,image/jpg,image,/objects/408.JPG,/objects/small/408_sm.JPG,/objects/thumbs/408_th.JPG
+dcb409,,Centlivre Nickel Plate Beer metal advertising sign,"27""x19"", losses",record,image/jpg,multiple,,/objects/small/409_1_sm.jpg,/objects/thumbs/409_1_th.jpg
+,dcb409,,,,,,/objects/409_1.JPG,/objects/small/409_1_sm.jpg,/objects/thumbs/409_1_th.jpg
+,dcb409,,,,,,/objects/409_2.JPG,/objects/small/409_2_sm.jpg,/objects/thumbs/409_2_th.jpg
+dcb410,,"Hoff-Brau Ale Beer embossed metal sign,","19 1/2""x27"", losses",record,image/jpg,multiple,,/objects/small/410_1_sm.jpg,/objects/thumbs/410_1_th.jpg
+,dcb410,,,,,,/objects/410_1.JPG,/objects/small/410_1_sm.jpg,/objects/thumbs/410_1_th.jpg
+,dcb410,,,,,,/objects/410_2.JPG,/objects/small/410_2_sm.jpg,/objects/thumbs/410_2_th.jpg
+dcb411,,"Major Bros. Pkg Co, Mishawaka IN lard can",,Image;StillImage,image/jpg,image,/objects/411.JPG,/objects/small/411_sm.JPG,/objects/thumbs/411_th.JPG
+dcb412,,"Yellow Creek Elkhart, IN lard can",,Image;StillImage,image/jpg,image,/objects/412.JPG,/objects/small/412_sm.JPG,/objects/thumbs/412_th.JPG
+dcb413,,"Parrot Quality Products, Fort Wayne Ind lard can",,Image;StillImage,image/jpg,image,/objects/413.JPG,/objects/small/413_sm.JPG,/objects/thumbs/413_th.JPG
+dcb414,,Braun Bros Packing Co Troy OH lard can,,Image;StillImage,image/jpg,image,/objects/414.JPG,/objects/small/414_sm.JPG,/objects/thumbs/414_th.JPG
+dcb415,,"Yellow Creek Elkhart IN lard can, no lid",,Image;StillImage,image/jpg,image,/objects/415.JPG,/objects/small/415_sm.JPG,/objects/thumbs/415_th.JPG
+dcb416,,"Laurents & Hartshorn Fort Wayne lard can, no lid",,Image;StillImage,image/jpg,image,/objects/416.JPG,/objects/small/416_sm.JPG,/objects/thumbs/416_th.JPG
+dcb417,,Sterling Beer wooden bottle case,no description,record,image/jpg,multiple,,/objects/small/417_1_sm.jpg,/objects/thumbs/417_1_th.jpg
+,dcb417,,,,,,/objects/417_1.JPG,/objects/small/417_1_sm.jpg,/objects/thumbs/417_1_th.jpg
+,dcb417,,,,,,/objects/417_2.JPG,/objects/small/417_2_sm.jpg,/objects/thumbs/417_2_th.jpg
+dcb418,,Berghoff wooden beer case,no description,record,image/jpg,multiple,,/objects/small/418_1_sm.jpg,/objects/thumbs/418_1_th.jpg
+,dcb418,,,,,,/objects/418_1.JPG,/objects/small/418_1_sm.jpg,/objects/thumbs/418_1_th.jpg
+,dcb418,,,,,,/objects/418_2.JPG,/objects/small/418_2_sm.jpg,/objects/thumbs/418_2_th.jpg
+dcb419,,Berghoff wooden beer case,no description,record,image/jpg,multiple,,/objects/small/419_1_sm.jpg,/objects/thumbs/419_1_th.jpg
+,dcb419,,,,,,/objects/419_1.JPG,/objects/small/419_1_sm.jpg,/objects/thumbs/419_1_th.jpg
+,dcb419,,,,,,/objects/419_2.JPG,/objects/small/419_2_sm.jpg,/objects/thumbs/419_2_th.jpg
+dcb420,,"Strasburg wooden beer case, New Haven",no description,record,image/jpg,multiple,,/objects/small/420_1_sm.jpg,/objects/thumbs/420_1_th.jpg
+,dcb420,,,,,,/objects/420_1.JPG,/objects/small/420_1_sm.jpg,/objects/thumbs/420_1_th.jpg
+,dcb420,,,,,,/objects/420_2.JPG,/objects/small/420_2_sm.jpg,/objects/thumbs/420_2_th.jpg
+dcb421,,"Centlivre wooden beer case, Fort Wayne",no description,record,image/jpg,multiple,,/objects/small/421_1_sm.jpg,/objects/thumbs/421_1_th.jpg
+,dcb421,,,,,,/objects/420_1.JPG,/objects/small/420_1_sm.jpg,/objects/thumbs/420_1_th.jpg
+,dcb421,,,,,,/objects/420_2.JPG,/objects/small/420_2_sm.jpg,/objects/thumbs/420_2_th.jpg
